@@ -616,10 +616,10 @@ jQuery(function($) {"use strict";
 				}
 				if (!isMobile) {
 					$('.ipad-frame .embed-responsive').on('click', function() {
-						autoPlayVideo('wN3gueLT0D8');
+						autoPlayVideo('2KGANytSato');
 					})
 				} else {
-					autoPlayVideo('wN3gueLT0D8');
+					autoPlayVideo('2KGANytSato');
 				}
 			}
 
