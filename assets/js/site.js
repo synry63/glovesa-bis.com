@@ -341,15 +341,17 @@ jQuery(function($) {"use strict";
 					},
 					afterShow : function() {
 						//lightbox flexslider
-						if ($('.lightbox-gallery .flexslider').length && lighboxSlider == true) {
-							$('.lightbox-gallery .flexslider').flexslider({
+                        //var test = $('.lightbox-gallery .flexslider').length;
+                        var selected = $(this).attr('href');
+						if ($(selected+'.lightbox-gallery .flexslider').length && lighboxSlider == true) {
+							$(selected+'.lightbox-gallery .flexslider').flexslider({
 								animation : "slide",
 								start : function() {
-									$('.lightbox-gallery .flexslider').find('.flex-prev').addClass('badge badge-theme').html('<i class="fa fa-chevron-left"></i>')
-									$('.lightbox-gallery .flexslider').find('.flex-next').addClass('badge badge-theme').html('<i class="fa fa-chevron-right"></i>')
+									$(selected+'.lightbox-gallery .flexslider').find('.flex-prev').addClass('badge badge-theme').html('<i class="fa fa-chevron-left"></i>')
+									$(selected+'.lightbox-gallery .flexslider').find('.flex-next').addClass('badge badge-theme').html('<i class="fa fa-chevron-right"></i>')
 								}
 							});
-							lighboxSlider = false
+							//lighboxSlider = false
 						}
 					}
 				});
