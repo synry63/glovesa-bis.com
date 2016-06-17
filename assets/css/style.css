@@ -2222,7 +2222,10 @@ body {
 	border-bottom: 1px dashed #b9daee;
 	padding: 0 0px 30px;
 	display: inline-block;
-	position: relative
+	position: relative;
+	height: 150px;
+	overflow-x: hidden;
+	overflow-y: auto;
 }
 
 .lightbox-gallery h3:after, .lightbox-gallery h3:before, .lightbox-cont:after, .lightbox-cont:before {
