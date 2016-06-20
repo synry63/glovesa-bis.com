@@ -2210,7 +2210,7 @@ body {
 }
 .lightbox-gallery p {
 	margin: 0;
-	padding: 30px 0 0;
+	padding: 10px 0 0;
 }
 .lightbox-gallery h3 {
 	border-bottom: 1px dashed #b9daee;
@@ -2241,7 +2241,7 @@ body {
 }
 
 .lightbox-gallery h4 {
-	padding: 30px 0 0;
+	padding: 20px 0 0;
 	margin: 0;
 }
 .lightbox-gallery address {
@@ -2344,6 +2344,12 @@ body {
 }
 .are-you {
 	display: block;
+}
+.viñeta li {
+	padding-bottom: 10px;
+}
+.viñeta{
+	padding-left: 20px;
 }
 
 @media (min-width: 768px) {
