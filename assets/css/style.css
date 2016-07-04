@@ -19,7 +19,7 @@
 	overflow: hidden;
 }
 .inner-main {
-	background-image: url(../img/mineral2.jpg);
+	background-image: url(../img/mineral3.jpg);
 	background-position: center 0;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -887,7 +887,7 @@
 
 /*about support section*/
 .about-support-section {
-	background-image: url(../img/mineral-diamante.jpg);
+	background-image: url(../img/fondo6.jpg);
 	background-position: center 0;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -923,12 +923,12 @@
 }
 .support-module h3:after {
 	background: transparent;
-	border-color: #9be1e6;
+	border-color: #bb9b13;
 	left: 100%;
 	top: 100%;
 }
 .support-module h3:before {
-	border-top: 1px dashed #9be1e6;
+	border-top: 1px dashed #bb8d0a;
 	height: 7px;
 	width: 100%;
 	left: 0;
@@ -1032,7 +1032,7 @@
 .address-block {
 	position: relative;
 	padding: 48px 0 0;
-	border-top: 1px dashed #b9daee;
+	border-top: 1px dashed #bba55f;
 	margin-bottom: 80px;
 	text-align: center;
 }
@@ -2213,13 +2213,13 @@ body {
 	padding: 10px 0 0;
 }
 .lightbox-gallery h3 {
-	border-bottom: 1px dashed #b9daee;
+	border-bottom: 1px dashed #bba50e;
 	padding: 0 0 22px;
 	position: relative;
 }
 
 .lightbox-cont {
-	border-bottom: 1px dashed #b9daee;
+	border-bottom: 1px dashed #bba55f;
 	padding: 0 0px 30px;
 	display: inline-block;
 	position: relative;

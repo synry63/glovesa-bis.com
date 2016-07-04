@@ -75,10 +75,10 @@ img {
 /*divider element*/
 .process-summary:after, .design-section .media:after, .pricing-block figure:after, .thik-dahsed-border:after {
 	width: 70px;
-	border-top: 1px solid #3dbaf4;
-	border-bottom: 1px solid #3a93d4;
+	border-top: 1px solid #bb9d13;
+	border-bottom: 1px solid #bb8d0a;
 	height: 1px;
-	background: #3caae7;
+	background: #bba50e;
 	bottom: -1px;
 	left: 0;
 }
@@ -239,15 +239,15 @@ right: 0;
  2.4) Button Style
  ------------------------------*/
 .btn-theme, .badge-theme, .btn-tag, .pagination > li > a, .btn-bordered.selected {
-	background: #3dbaf4; /* Old browsers */
+	background: #bb9d13; /* Old browsers */
 	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
 	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzNkYmFmNCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjIwJSIgc3RvcC1jb2xvcj0iIzNkYjJlZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijc2JSIgc3RvcC1jb2xvcj0iIzNhOGVkMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzOTgzYzciIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
-	background: -moz-linear-gradient(top,  #3dbaf4 0%, #3db2ed 20%, #3a8ed1 76%, #3983c7 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3dbaf4), color-stop(20%,#3db2ed), color-stop(76%,#3a8ed1), color-stop(100%,#3983c7)); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  #3dbaf4 0%,#3db2ed 20%,#3a8ed1 76%,#3983c7 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  #3dbaf4 0%,#3db2ed 20%,#3a8ed1 76%,#3983c7 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  #3dbaf4 0%,#3db2ed 20%,#3a8ed1 76%,#3983c7 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  #3dbaf4 0%,#3db2ed 20%,#3a8ed1 76%,#3983c7 100%); /* W3C */
+	background: -moz-linear-gradient(top, #bba50e 0%, #bb9d13 20%, #bb9b13 76%, #bb8d0a 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #bba50e), color-stop(20%, #bb9d13), color-stop(76%, #bb9b13), color-stop(100%, #bb8d0a)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #bba50e 0%, #bb9d13 20%, #bb9b13 76%, #bb8d0a 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #bba50e 0%, #bb9d13 20%, #bb9b13 76%, #bb8d0a 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #bba50e 0%, #bb9d13 20%, #bb9b13 76%, #bb8d0a 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #bba50e 0%, #bb9d13 20%, #bb9b13 76%, #bb8d0a 100%); /* W3C */
 }
 .badge-default, .pagination > li > a:hover, .pagination > li > a:focus, .btn-tag:hover, .btn-tag:focus {
 	background: #fbfbfb; /* Old browsers */
@@ -264,7 +264,7 @@ right: 0;
 	color: #fff;
 	border: none;
 	font-weight: 700;
-	text-shadow: 1px 1px 0 #317eb4;
+	text-shadow: 1px 1px 0 #bb9b13;
 	padding: 15px 25px;
 	border-radius: 60px;
 	margin-bottom: 10px;
@@ -276,14 +276,14 @@ right: 0;
 	color: #fff;
 	border: none;
 	font-weight: 700;
-	text-shadow: 1px 1px 0 #317eb4;
+	text-shadow: 1px 1px 0 #bb9b13;
 	padding: 15px 12px;
 	border-radius: 60px;
 	min-width: 200px;
 }
 .btn-theme:hover, .btn-theme:focus {
 	color: #fff;
-	text-shadow: 1px 1px 0 #317eb4;
+	text-shadow: 1px 1px 0 #bb8d0a;
 }
 .btn-theme .fa {
 	margin: 0 -6px 0 6px;
@@ -293,7 +293,7 @@ right: 0;
 	margin: 4px;
 }
 .btn-theme.rounded-border:after {
-	border: 1px dashed #c3dff0;
+	border: 1px dashed #bb9d13;
 	height: 120%;
 	left: -3%;
 	top: -10%;
