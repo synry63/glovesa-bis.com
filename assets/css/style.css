@@ -887,7 +887,7 @@
 
 /*about support section*/
 .about-support-section {
-	background-image: url(../img/fondo6.jpg);
+	background-image: url(../img/fondo56.png);
 	background-position: center 0;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -2131,6 +2131,7 @@ body {
 
 .gallery-grid .item:hover figure img {
 	border-radius: 10px;
+	background-color: white;
 }
 
 .gallery-grid .item:hover img {
