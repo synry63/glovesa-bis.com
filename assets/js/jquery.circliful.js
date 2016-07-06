@@ -53,7 +53,7 @@
 					percent = settings.percent / 100;
 				}
 
-				fgcolor = '#3cc3c1';
+				fgcolor = '#313d4b';
 
 				if ($(this).data('bgcolor') != undefined) {
 					bgcolor = $(this).data('bgcolor');
