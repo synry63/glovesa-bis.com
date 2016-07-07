@@ -346,6 +346,9 @@ jQuery(function($) {"use strict";
 						if ($(selected+'.lightbox-gallery .flexslider').length && lighboxSlider == true) {
 							$(selected+'.lightbox-gallery .flexslider').flexslider({
 								animation : "slide",
+                                minItems: 1,
+                                maxItems: 2,
+                                itemWidth: 210,
 								start : function() {
 									$(selected+'.lightbox-gallery .flexslider').find('.flex-prev').addClass('badge badge-theme').html('<i class="fa fa-chevron-left"></i>')
 									$(selected+'.lightbox-gallery .flexslider').find('.flex-next').addClass('badge badge-theme').html('<i class="fa fa-chevron-right"></i>')
