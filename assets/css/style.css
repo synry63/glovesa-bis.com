@@ -287,12 +287,12 @@
 }
 /*iPad Frame*/
 .ipad-frame {
-	background: url(../img/iPad-02.png) 0 0 no-repeat;
+
 	background-size: 100% auto;
 	padding: 18px 24px 36px;
 }
 .ipad-frame .embed-responsive.embed-responsive-4by3 {
-	background: url(../img/video.jpg) 0 0 no-repeat;
+	background: url(../img/img.png) 0 0 no-repeat;
 	background-size: cover;
 	cursor: pointer;
 }
@@ -486,7 +486,7 @@
 	position: relative;
 }
 .mackbook-section {
-	background: url(../img/macBook.png) center 0 no-repeat;
+
 	background-size: 100% auto;
 	padding: 3.4% 10.4% 7%;
 	margin: 0 6% -2%;
@@ -2204,7 +2204,7 @@ body {
 /*lightbox*/
 .lightbox-gallery {
 	/*max-width: 970px;*/
-    max-width: 600px;
+    /*max-width: 600px;*/
     /*min-width: 600px;*/
 	background: #ffffff;
 	padding: 35px;

@@ -615,18 +615,7 @@ jQuery(function($) {"use strict";
 			}
 
 			// ipad-frame video
-			if ($('.ipad-frame').length) {
-				var autoPlayVideo = function(vcode) {
-					$('.ipad-frame .embed-responsive').html('<iframe src="https://www.youtube.com/embed/' + vcode + '?autoplay=1&loop=1&rel=0&wmode=transparent" frameborder="0" allowfullscreen wmode="Opaque"></iframe>');
-				}
-				if (!isMobile) {
-					$('.ipad-frame .embed-responsive').on('click', function() {
-						autoPlayVideo('2KGANytSato');
-					})
-				} else {
-					autoPlayVideo('2KGANytSato');
-				}
-			}
+		
 
 			// ipad-frame video
 
