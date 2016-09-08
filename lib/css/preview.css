@@ -2,14 +2,15 @@
   background: #f1f1f1 none repeat scroll 0 0;
   color: #333;
   font-size: 18px;
-  height: 90px;
-  line-height: 100px;
-  width: 90px;
-  text-transform: uppercase;
   font-weight: 700;
+  height: 90px;
+  line-height: 90px;
+  text-transform: uppercase;
+  width: 90px;
 }
 .nivo-directionNav > a:hover{
   background: #BB9D13;
+  border: 1px solid #fff;
   color: #fff;
 }
 .nivo-prevNav {

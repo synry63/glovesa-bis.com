@@ -1,0 +1,135 @@
+{
+  "producto_01" : {
+    "nombreProducto" : "Caja Minera Chips Trays X 20",
+    "material" : "PP-INY",
+    "peso" : "5.0±1.0 gr",
+    "color" : "Natural /Otros",
+    "numeroDivisiones" : "20",
+    "numeroFilas" : "1",
+    "dimensionTapa" : "519 x 54.5 x 34 mm",
+    "cuerpo" : "514 x 50.3 x 31.6 mm",
+    "division" : "24.4 X 48 X 30 mm",
+    "peso" : "175±10 gr",
+    "bisagra" : "Continua",
+    "cierreTapa" : "6 lengüetas",
+    "caracteristicas" : [
+      "Diseño para uso en minas y proyectos de exploración del sector minero.",
+      "Empleado en sistemas de Perforación con recuperación de cuttigns.",
+      "Excelente para manipular y almacenar cuttings de sondaje.",
+      "Color transparente y fabricado con material de primera calidad, resistente y de gran durabilidad.",
+      "La caja posee una tapa con bisagra continua que permite el uso repetido de abrir y cerrar sin romperse.",
+      "En el interior la tapa posee unas líneas en relieve que impide la contaminación de material entre compartimientos.",
+      "También es empleado en otros sectores industriales o comerciales para almacenar y/o guardar accesorios, pernos, piezas pequeñas, objetos diversos, etc.",
+      "Diseño y características propias de una caja multiusos.",
+      "Serigrafiado según arte y requerimiento."
+    ],
+    "imagenes" : [
+      "producto_01_image01.png",
+      "producto_01_image01.png",
+      "producto_01_image01.png",
+      "producto_01_image01.png"
+    ]
+  },
+  "producto_02" : {
+    "nombreProducto" : "Separador Inyectado",
+    "material" : "Polipropileno.",
+    "peso" : "5.0±1.0 gr",
+    "color" : "Según Requerimiento",
+    "funcionalidad " : "Con bandeja Minera Modelo BQ",
+    "caracteristicas" : [
+      "Ligero y Resistente al manipuleo.",
+      "Bordes con Relieves Facilita el Drenaje.",
+      "Zona Superior Diseñado para Anotaciones o Codificaciones.",
+      "Su Diseño permite un excelente ensamble con el alojamiento de la bandeja."
+    ],
+    "imagenes" : [
+      "producto_02_image01.png",
+      "producto_02_image02.png",
+      "producto_02_image03.png",
+      "producto_02_image04.png"
+    ]
+  },
+  "producto_03" : {
+    "nombreProducto" : "Separador Soplado",
+    "material" : "Polipropileno.",
+    "peso" : "5.0±1.0 gr",
+    "color" : "Según Requerimiento",
+    "funcionalidad " : "Con bandeja Minera Modelo BQ",
+    "caracteristicas" : [
+      "Ligero y Resistente al manipuleo.",
+      "Bordes con Relieves Facilita el Drenaje.",
+      "Zona Superior Diseñado para Anotaciones o Codificaciones.",
+      "Su Diseño permite un excelente ensamble con el alojamiento de la bandeja."
+    ],
+    "imagenes" : [
+      "producto_03_image01.png",
+      "producto_03_image02.png",
+      "producto_03_image03.png",
+      "producto_03_image04.png"
+    ]
+  },
+  "producto_04" : {
+    "nombreProducto" : "Tapas Inyectadas",
+    "material" : "Polipropileno.",
+    "peso" : "5.0±1.0 gr",
+    "color" : "Según Requerimiento",
+    "funcionalidad " : "Con bandeja Minera Modelo BQ",
+    "caracteristicas" : [
+      "Ligero y Resistente al manipuleo.",
+      "Bordes con Relieves Facilita el Drenaje.",
+      "Zona Superior Diseñado para Anotaciones o Codificaciones.",
+      "Su Diseño permite un excelente ensamble con el alojamiento de la bandeja."
+    ],
+    "imagenes" : [
+      "producto_04_image01.png",
+      "producto_04_image02.png",
+      "producto_04_image03.png",
+      "producto_04_image04.png"
+    ]
+  },
+  "producto_05" : {
+    "nombreProducto" : "Ganchos",
+    "material" : "Polipropileno.",
+    "peso" : "5.0±1.0 gr",
+    "color" : "Según Requerimiento",
+    "funcionalidad " : "Con bandeja Minera Modelo BQ",
+    "caracteristicas" : [
+      "Ligero y Resistente al manipuleo.",
+      "Bordes con Relieves Facilita el Drenaje.",
+      "Zona Superior Diseñado para Anotaciones o Codificaciones.",
+      "Su Diseño permite un excelente ensamble con el alojamiento de la bandeja."
+    ],
+    "imagenes" : [
+      "producto_05_image01.png",
+      "producto_05_image02.png",
+      "producto_05_image03.png",
+      "producto_05_image04.png"
+    ]
+  },
+  "producto_06" : {
+    "nombreProducto" : "Caja Minera Media Caña 5 Canales",
+    "material" : "Polipropileno Atóxico",
+    "peso" : "850+/-30 gr",
+    "color" : "Negro, azul, otros s/ requerimiento",
+    "acabados " : "Libre de rebabas, no debe presentar bordes cortantes.",
+    "alojamientos" : "6,8 cm",
+    "medidas" : "66,5cm X 36,5cm X 3,9 cm",
+    "proceso" : "Inyección",
+    "caracteristicas" : [
+      "Son apilables y el almacenamiento ocupa un espacio minimo.",
+      "El diseño permite que el transporte de las pruebas sea seguro.",
+      "Se caracterizan por su ligereza, resistencia, rigidez y son practicamente irrompibles.",
+      "Es impermeable y no se corroe como el metal.",
+      "Es resistente a los rayos ultravioleta por lo que es mas durable en el campo.",
+      "Tiene orificios en ambos extremos para el drenaje en cada canal.",
+      "Asa ergonométrica.",
+      "Regla con graduacion de 0-64 cm en los bordes."
+    ],
+    "imagenes" : [
+      "producto_06_image01.png",
+      "producto_06_image02.png",
+      "producto_06_image03.png",
+      "producto_06_image04.png"
+    ]
+  },
+}
