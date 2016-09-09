@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <!-- footer-widget start -->
-            <div class="col-lg-3 col-md-3 col-sm-4">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-4">
                 <div class="footer-widget">
                     <h3>CONTACT US</h3>
                     <ul class="footer-contact">
@@ -22,10 +22,30 @@
                         </li>
                     </ul>
                 </div>
+            </div> -->
+            <div class="">
+                <div class="footer-widget">
+                    <ul class="footer-contact">
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <i class="fa fa-map-marker"> </i>
+                            <span>Jr. Comunidad Industrial Nº 333 – Urb. La Villa Chorrillos – Lima </span>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <i class="fa fa-envelope"> </i>
+                            <span>Correo: admin@websbucket.com </span><br>
+                            <span>info@websbucket.com</span>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-4">
+                            <i class="fa fa-phone"> </i>
+                            <span>Teléfonos: (01) 249-0387</span><br>
+                            <span>(01) 251-6552</span>
+                        </div>
+                    </ul>
+                </div>
             </div>
             <!-- footer-widget end -->
             <!-- footer-widget start -->
-            <div class="col-lg-3 col-md-3 col-sm-4">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-4">
                 <div class="footer-widget">
                     <h3>my account</h3>
                     <ul class="footer-menu">
@@ -36,10 +56,10 @@
                         <li><a href="wishlist.html">wishlist</a></li>
                     </ul>
                 </div>
-            </div>
+            </div> -->
             <!-- footer-widget end -->
             <!-- footer-widget start -->
-            <div class="col-lg-3 col-md-3 hidden-sm col-xs-12">
+            <!-- <div class="col-lg-3 col-md-3 hidden-sm col-xs-12">
                 <div class="footer-widget">
                     <h3>my account</h3>
                     <ul class="footer-menu">
@@ -50,10 +70,10 @@
                         <li><a href="wishlist.html">wishlist</a></li>
                     </ul>
                 </div>
-            </div>
+            </div> -->
             <!-- footer-widget end -->
             <!-- footer-widget start -->
-            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+            <!-- <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
                 <div class="footer-widget">
                     <h3>photo gallery</h3>
                     <ul class="footer-gallery">
@@ -65,7 +85,7 @@
                         <li><a href="#"><img alt="" src="img/footer/1.jpg"></a></li>
                     </ul>
                 </div>
-            </div>
+            </div> -->
             <!-- footer-widget end -->
         </div>
     </div>

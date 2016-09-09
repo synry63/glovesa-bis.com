@@ -6,7 +6,7 @@
   Author: ingeniousdevs
   Author URI: http://www.ingeniousdevs.com
   Version: 1.0
-  Theme Coloe Code: #ef6644;
+  Theme Coloe Code: #BB9D13;
 
 -----------------------------------------------------------------------------------
     
@@ -48,9 +48,9 @@
 /*----------------------------------------*/
 /*  1.  Theme default CSS
 /*----------------------------------------*/
-* {
+/* * {
   outline: 1px solid red;
-}
+}*/
 html, body {height: 100%;}
 .floatleft {float:left}
 .floatright {float:right}
@@ -61,7 +61,7 @@ a:focus {outline:0px solid}
 .form-control:focus {
   box-shadow: none;
 }
-img {max-width:100%;height:auto}
+img {max-width:100%;height:auto;border: 1px solid #F1F1F1}
 .fix {overflow:hidden}
 p {margin:0 0 15px;}
 h1, h2, h3, h4, h5, h6 {
@@ -72,7 +72,7 @@ a:active, a:focus {
   text-decoration: none;
 }
 a:hover{
-  color: #ef6644;
+  color: #BB9D13;
   text-decoration: none;
 }
 a:active, a:hover, input:focus {
@@ -84,7 +84,7 @@ margin: 0;
 padding: 0
 }
 .k-padding{
-	padding:60px 0;
+	padding: 40px 0 50px 0;
 }
 .k-padding-top-4 {
   padding-top: 40px;
@@ -151,12 +151,12 @@ html, body {
   color: #fff;
 }
 .kp-button-2{
-  background: #ef6644;
+  background: #BB9D13;
   color: #fff;
 }
 .kp-button-2:hover{
     background-color: #fff;
-    color: #ef6644;
+    color: #BB9D13;
 }
 body {
 	font-family: "Lato",sans-serif;
@@ -188,14 +188,14 @@ body {
   color: #fff;
   font-weight: 600;
   margin-right: 15px;
-  background:#ef6644;
+  background:#BB9D13;
   text-transform:uppercase;
   border-radius: 32px;
 }
 .o-btn:hover{
 	background:#fff;
-	color: #ef6644;
-	border: 1px solid #ef6644;
+	color: #BB9D13;
+	border: 1px solid #BB9D13;
 }
 /* ==================================
 	2. Header Top Area
@@ -215,7 +215,7 @@ body {
 	margin-left:0;
 }
 .social-shear ul li a {
-  background-color: #ef6644;
+  background-color: #BB9D13;
   color: #fff;
   display: inline-block;
   height: 30px;
@@ -227,9 +227,9 @@ body {
   border-radius:100%;
 }
 .social-shear ul li a:hover {
-	border:1px solid #ef6644;
+	border:1px solid #BB9D13;
 	background: none;
-	color:#ef6644;
+	color:#BB9D13;
 }
 .my-account ul li {
   display: inline-block;
@@ -240,7 +240,7 @@ body {
 	text-transform:capitalize;
 }
 .my-account ul li a:hover{
-	color:#ef6644;
+	color:#BB9D13;
 }
 .header-middel-area {
     padding: 30px 0;
@@ -255,7 +255,7 @@ body {
 }
 
 .search input, .blog-search input {
-  border: 1px solid #ef6644;
+  border: 1px solid #BB9D13;
   border-radius: 32px 0 0 32px;
   float: left;
   height: 40px;
@@ -266,7 +266,7 @@ body {
   border: 1px solid #ddd;
 }
 button.my-btn {
-  background-color: #ef6644;
+  background-color: #BB9D13;
   border: medium none;
   border-radius: 0 32px 32px 0;
   color: #fff;
@@ -289,11 +289,11 @@ button.my-btn {
   width: inherit;
 }
 .search-2 button.my-btn:hover {
-  color: #ef6644;
+  color: #BB9D13;
 }
 .blog-post a.read-more:hover{
 	background-color:#fff;
-	color:#ef6644;
+	color:#BB9D13;
 }
 .cart .mincart{
   position: absolute;
@@ -303,7 +303,7 @@ button.my-btn {
   z-index:999;
 }
 .mincart > a > span.img {
-  background: #ef6644 none repeat scroll 0 0;
+  background: #BB9D13 none repeat scroll 0 0;
   border: 1px solid transparent;
   border-radius: 100%;
   display: inline-block;
@@ -330,7 +330,7 @@ button.my-btn {
   margin-top: 5px;
 }
 .min-cart-item .count {
-  color: #ef6644;
+  color: #BB9D13;
   margin-right: 8px;
   text-transform:capitalize;
 }
@@ -341,7 +341,7 @@ button.my-btn {
 }
 .cart ul {
   background: #fff none repeat scroll 0 0;
-  border: 1px solid #ef6644;
+  border: 1px solid #BB9D13;
   opacity: 0;
   padding: 10px 8px 12px;
   position: absolute;
@@ -475,7 +475,7 @@ button.my-btn {
 }
 .main-menu ul li ul {
   background-color: #f2f2f2;
-  border-top: 3px solid #ef6644;
+  border-top: 3px solid #BB9D13;
   left: 0;
   padding: 20px;
   position: absolute;
@@ -506,7 +506,7 @@ button.my-btn {
 	visibility:visible;
 }
 .main-menu ul li ul.dropdown li:hover a {
-	color:#ef6644;
+	color:#BB9D13;
 	font-weight:400px;
 	background:none;
 	margin-left: 5px;
@@ -621,7 +621,7 @@ button.my-btn {
 	4. Product Style
 =====================================*/
 .product-img, .product-img-2 {
-  overflow: hidden;
+  /*overflow: hidden;*/
   position: relative;
 }
 .product-img a {
@@ -711,7 +711,7 @@ button.my-btn {
     text-transform: uppercase;
 }
 .product-info a:hover, .cart ul li .cart-info h4 a:hover {
-    color: #ef6644;
+    color: #BB9D13;
 }
 .product-info > h2 {
     line-height: 10px;
@@ -780,7 +780,7 @@ button.my-btn {
     margin-left: -6px;
 }
 .cdown {
-  border: 1px solid #ef6644;
+  border: 1px solid #BB9D13;
   color: #222;
   display: inline-block;
   height: 58px;
@@ -847,7 +847,7 @@ button.my-btn {
     overflow: hidden;
 }
 .dicount-product .new-price {
-  background: #ef6644;
+  background: #BB9D13;
   display: inline-block;
   margin-left: -6px;
   padding: 9px 23px;
@@ -895,7 +895,7 @@ button.my-btn {
   padding-right: 20px;
 }
 .section-heading h2 span:before, .sidebar-title span:before {
-    border-bottom: 1px solid #ef6644;
+    border-bottom: 1px solid #BB9D13;
     bottom: -11px;
     content: "";
     left: 0;
@@ -905,7 +905,7 @@ button.my-btn {
 }
 .section-heading span::after, .tab-border:before, .tab-border:after, .review-tab:before, .review-tab:after, .sidebar-title span:after{
   background: #fff none repeat scroll 0 0;
-  border: 2px solid #ef6644;
+  border: 2px solid #BB9D13;
   border-radius: 100%;
   bottom: -17px;
   color: #fff;
@@ -1044,7 +1044,7 @@ button.my-btn {
   border: none;
 }
 .discount-banner > div > span > span {
-  background-color: #ef6644 !important;
+  background-color: #BB9D13 !important;
   border: medium none;
   display: inline-block;
   height: 60px;
@@ -1323,7 +1323,7 @@ button.my-btn {
   font-weight: 700;
 }
 .blog-content-h a:hover {
-    color: #ef6644;
+    color: #BB9D13;
 }
 .blog-content-h {
     border: 1px solid #ddd;
@@ -1357,7 +1357,7 @@ button.my-btn {
     text-transform: capitalize;
 }
 .blog-content-h .read-more:hover {
-	color:#ef6644;
+	color:#BB9D13;
 }
 .blog-content-h {
   border: 1px solid #ddd;
@@ -1367,7 +1367,7 @@ button.my-btn {
 	14. Newsletter Area
 =====================================*/
 .newsletter-area {
-  border-top: 2px solid #ef6644;
+  border-top: 2px solid #BB9D13;
 }
 .newsletter h3 {
   color: #333;
@@ -1377,7 +1377,7 @@ button.my-btn {
   text-transform: uppercase;
 }
 .newsletter h3 span {
-  color: #ef6644;
+  color: #BB9D13;
   padding-right: 15px;
 }
 .newsletter p {
@@ -1400,7 +1400,7 @@ button.my-btn {
   -moz-border-left-colors: none;
   -moz-border-right-colors: none;
   -moz-border-top-colors: none;
-  border-color: #ef6644;
+  border-color: #BB9D13;
   border-image: none;
   border-radius: 32px 0 0 32px;
   border-style: solid none solid solid;
@@ -1412,7 +1412,7 @@ button.my-btn {
   width: 73%;
 }
 .newsletter button {
-  background: #ef6644 none repeat scroll 0 0;
+  background: #BB9D13 none repeat scroll 0 0;
   border: 1px solid transparent;
   border-radius: 0 32px 32px 0;
   color: #fff;
@@ -1432,8 +1432,8 @@ button.my-btn {
 }
 .newsletter button:hover, .tag-action-s button.cus-tag:hover{
 	background: #fff;
-	border:1px solid #ef6644;
-	color:#ef6644;
+	border:1px solid #BB9D13;
+	color:#BB9D13;
 }
 /* ==================================
 	15. Footer Area
@@ -1450,6 +1450,24 @@ button.my-btn {
   line-height: 11px;
   padding-bottom: 15px;
   text-transform: uppercase;
+}
+.footer-widget .footer-contact div{
+  color: #fff;
+  text-align: center;
+}
+.footer-widget .footer-contact i {
+  background-color: #FFF;
+  border-radius: 100%;
+  color: #BB9D13;
+  display: block;
+  font-size: 16px;
+  height: 35px;
+  line-height: 35px;
+  margin: 8px auto;
+  text-align: center;
+  width: 35px;
+  
+  transition: .3s;
 }
 .footer-contact {
   margin-top: 20px;
@@ -1479,7 +1497,7 @@ ul.footer-contact li i, .widget-icon > a > i {
 	transition:.3s;
 }
 .widget-icon > a > i:hover{
-	background: #ef6644;
+	background: #BB9D13;
 	color: #fff;
 }
 ul.footer-menu li a {
@@ -1527,7 +1545,7 @@ ul.footer-menu li a:hover{
   margin: 0;
 }
 .copyright p a {
-  color: #ef6644;
+  color: #BB9D13;
 }
 .payment-img {
   float: right;
@@ -1630,7 +1648,7 @@ ul.footer-menu li a:hover{
   transition: all 0.3s ease 0s;
 }
 .blog-de-c a:hover{
-    color: #ef6644;
+    color: #BB9D13;
 }
 .blog-de-c p{
   margin-top:15px;
@@ -1643,9 +1661,9 @@ ul.footer-menu li a:hover{
   text-transform:capitalize;
 }
 .post-author ul li i {
-  border: 1px solid #ef6644;
+  border: 1px solid #BB9D13;
   border-radius: 100%;
-  color: #ef6644;
+  color: #BB9D13;
   height: 30px;
   line-height: 28px;
   margin-right: 10px;
@@ -1657,7 +1675,7 @@ ul.footer-menu li a:hover{
   display:inline-block;
 }
 .date {
-  background-color: #ef6644;
+  background-color: #BB9D13;
   bottom: -13px;
   color: #fff;
   padding: 5px 20px;
@@ -1678,7 +1696,7 @@ ul.footer-menu li a:hover{
   display: inline-block;
   width: 30px;
   height: 30px;
-  border: 1px solid #ef6644;
+  border: 1px solid #BB9D13;
   border-radius: 100%;
   margin-right: 5px;
   text-align: center;
@@ -1687,7 +1705,7 @@ ul.footer-menu li a:hover{
 }
 .pagenation li:first-child {
   color: #fff;
-  background-color: #ef6644;
+  background-color: #BB9D13;
 }
 .pagenation a {
   color: #333;
@@ -1695,7 +1713,7 @@ ul.footer-menu li a:hover{
 }
 .pagenation a:hover {
   color: #fff;
-  background-color: #ef6644;
+  background-color: #BB9D13;
   border-radius: 100%;  
 }
 .blog-search input {
@@ -1710,7 +1728,7 @@ ul.footer-menu li a:hover{
 }
 .catgory .cat-title {
   background-color: #fff;
-  border: 1px solid #ef6644;
+  border: 1px solid #BB9D13;
   display: inline-block;
   font-size: 16px;
   height: 35px;
@@ -1723,7 +1741,7 @@ ul.footer-menu li a:hover{
   transform: skewX(15deg);
 }
 .catgory::before {
-  background-color: #ef6644;
+  background-color: #BB9D13;
   content: "";
   height: 1px;
   left: 0;
@@ -1737,14 +1755,14 @@ ul.footer-menu li a:hover{
 }
 .widget-tab li > a {
   background: #fff none repeat scroll 0 0;
-  border: 1px solid #ef6644;
+  border: 1px solid #BB9D13;
   color: #333;
   font-weight: 700;
   padding: 7px 20px;
   text-transform: uppercase;
 }
 .widget-tab li.active > a, .widget-tab li > a:hover {
-    background: #ef6644;
+    background: #BB9D13;
     color: #fff;
 }
 /* ==================================
@@ -1809,11 +1827,13 @@ ul.footer-menu li a:hover{
 	float:left;
 }
 .zoom-tab > li > a > img{
-	border:1px solid #ef6644;
+	border:1px solid #BB9D13;
 }
 .single-product-details > h2 {
+  border-bottom: 1px solid #ddd;
   font-size: 20px;
   font-weight: 700;
+  padding: 15px 0;
   text-transform: uppercase;
 }
 .single-product-details .price{
@@ -1866,7 +1886,7 @@ ul.footer-menu li a:hover{
   width: 50%;
 }
 .qtybutton {
-  background: #ef6644 none repeat scroll 0 0;
+  background: #BB9D13 none repeat scroll 0 0;
   color: hsl(0, 0%, 100%);
   cursor: pointer;
   display: inline-block;
@@ -1916,8 +1936,8 @@ ul.footer-menu li a:hover{
   text-transform: uppercase;
 }
 .single-p-size li a:hover, .p-size li a:hover, .widget-tags li a:hover{
-  border: 1px solid #ef6644;
-  color: #ef6644;
+  border: 1px solid #BB9D13;
+  color: #BB9D13;
 }
 .product-cart-option li {
     display: inline-block;
@@ -1935,7 +1955,7 @@ ul.footer-menu li a:hover{
     margin-top: 20px;
 }
 .product-cart-option a:hover{
-  color: #ef6644;
+  color: #BB9D13;
 }
 .sin-product-top .product-info{
   text-align: left;
@@ -1961,7 +1981,7 @@ ul.footer-menu li a:hover{
 }
 .review-tab > li > a{
   background: #fff none repeat scroll 0 0;
-  border: 1px solid #ef6644;
+  border: 1px solid #BB9D13;
   border-radius: 32px;
   line-height: 1.42857;
   padding: 8px 28px; 
@@ -1969,15 +1989,28 @@ ul.footer-menu li a:hover{
   text-transform: capitalize;
 }
 .review-tab > li > a:hover{
-  background: #ef6644;
+  background: #000;
   color:#fff; 
 }
 .review-tab > li.active > a{
-  background: #ef6644;
+  background: #BB9D13;
   color:#fff; 
 }
 .p-des-re {
   margin-top: 30px;
+}
+.p-des-re .p-des-re-characteristics {
+  padding: 10px 0;
+}
+.p-des-re .p-des-re-characteristics .p-des-re-title {
+  font-size: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.p-des-re .p-des-re-characteristics .p-des-re-menu {
+  width: 50%;
+  float: left;
 }
 .review-head > h2 {
   font-size: 20px;
@@ -2009,7 +2042,7 @@ ul.footer-menu li a:hover{
     width: 150px;
 }
 .c-r-img > img {
-    border: 1px solid #ef6644;
+    border: 1px solid #BB9D13;
     border-radius: 100%;
 }
 .c-r-text > h3 {
@@ -2062,7 +2095,7 @@ ul.footer-menu li a:hover{
 }
 .tag-action-s input {
   background: #fff none repeat scroll 0 0;
-  border: 1px solid #ef6644;
+  border: 1px solid #BB9D13;
   border-radius: 32px 0 0 32px;
   margin-top: 0;
   padding: 0 16px;
@@ -2070,8 +2103,8 @@ ul.footer-menu li a:hover{
   height: 40px;
 }
 .tag-action-s button.cus-tag{
-  background: #ef6644;
-  border: 1px solid #ef6644;
+  background: #BB9D13;
+  border: 1px solid #BB9D13;
   border-radius: 0 50px 50px 0;
   color: #fff;
   margin-left: -5px;
@@ -2096,7 +2129,7 @@ ul.footer-menu li a:hover{
   position: absolute;
 }
 .breadcam > ul {
-  background: #ef6644 none repeat scroll 0 0;
+  background: #BB9D13 none repeat scroll 0 0;
   border-radius: 32px;
   color: #fff;
   display: inline-block;
@@ -2133,9 +2166,9 @@ ul.shop-tab li {
   margin-right: 15px;
 }
 ul.shop-tab li a {
-  border: 1px solid #ef6644;
+  border: 1px solid #BB9D13;
   border-radius: 100%;
-  color: #ef6644;
+  color: #BB9D13;
   display: block;
   font-size: 14px;
   height: 30px;
@@ -2146,11 +2179,11 @@ ul.shop-tab li a {
 }
 ul.shop-tab li a:hover{
   color: #fff;
-  background: #ef6644;
+  background: #BB9D13;
 }
 ul.shop-tab li.active a{
   color: #fff;
-  background: #ef6644;
+  background: #BB9D13;
 }
 .shorting-form {
   float: right;
@@ -2230,7 +2263,7 @@ ul.sidebar-menu li a{
   text-transform: uppercase;
 }
 ul.sidebar-menu li a:hover{
-  color: #ef6644;
+  color: #BB9D13;
 }
 ul.sidebar-menu li a::before {
   color: #909295;
@@ -2254,11 +2287,11 @@ span.count {
   margin-left: auto;
 }
 .price-filter .ui-slider-range {
-  background: #ef6644;
+  background: #BB9D13;
 }
 .price-filter .ui-slider-handle.ui-state-default.ui-corner-all {
   background: #fff;
-  border: 2px solid #ef6644;
+  border: 2px solid #BB9D13;
   height: 21px;
   margin-top: -2px;
   width: 21px;
@@ -2278,8 +2311,8 @@ span.count {
   border-radius: 32px;
 }
 .price_slider_amount > input[type="submit"] {
-  background: #ef6644;
-  border: 1px solid #ef6644;
+  background: #BB9D13;
+  border: 1px solid #BB9D13;
   color: #fff;
   float: right;
   font-weight: bold;
@@ -2292,8 +2325,8 @@ span.count {
 }
 .price_slider_amount > input[type="submit"]:hover{
   background: #fff;
-  border: 1px solid #ef6644;
-  color: #ef6644;
+  border: 1px solid #BB9D13;
+  color: #BB9D13;
 }
 .widget-popular-product .category-product{
   margin-top: 20px;
@@ -2313,7 +2346,7 @@ span.count {
   text-transform: uppercase;
 }
 .recent-title a:hover{
-  color: #ef6644;
+  color: #BB9D13;
 }
 .recent-title p {
   color: #777;
@@ -2325,7 +2358,7 @@ span.count {
 .recent-title span i, .ad-contact-title > p i {
   font-size: 15px;
   margin-right: 10px;
-  color: #ef6644;
+  color: #BB9D13;
 }
 .recent-title p a{
   color: #777;
@@ -2353,7 +2386,7 @@ span.count {
 }
 blockquote {
   background: #f1f1f1 none repeat scroll 0 0;
-  border-left: 5px solid #ef6644;
+  border-left: 5px solid #BB9D13;
   font-size: 14px;
   font-style: italic;
   margin: 20px 40px;
@@ -2537,15 +2570,15 @@ span.email-notes {
   margin-top: 30px;
 }
 .comment-form-comment .kp-button{
-  background: #ef6644;
+  background: #BB9D13;
   color: #fff;
 }
 .comment-form-comment .kp-button:hover{
   background: #fff;
-  color: #ef6644;
+  color: #BB9D13;
 }
 .comments-content-wrap a {
-  color: #ef6644;
+  color: #BB9D13;
   text-transform: capitalize;
 }
 /* ==================================
@@ -2592,7 +2625,7 @@ span.email-notes {
   width: 150px;
 }
 .cart-deatils .qty input {
-  border: 1px solid #ef6644;
+  border: 1px solid #BB9D13;
   border-radius: 32px;
   margin: 0 auto;
   max-width: 64px;
@@ -2628,13 +2661,13 @@ span.email-notes {
   text-transform: uppercase;
 }
 .cart-deatils td.cart-description .product-name a:hover, .cart-deatils td.varients a:hover, .cart-deatils td.action a:hover {
-  color: #ef6644;
+  color: #BB9D13;
 }
 .cart-deatils td.price span{
   color: #333;
 }
 .cart-deatils td.price-total span{
-  color: #ef6644;
+  color: #BB9D13;
   font-weight: 700;
 }
 .cart-form-title h4 {
@@ -2721,8 +2754,8 @@ span.email-notes {
   23. Wishlist Page
 =====================================*/
 .order-detail-content .wish-cart {
-  background: #ef6644 none repeat scroll 0 0;
-  border: 1px solid #ef6644;
+  background: #BB9D13 none repeat scroll 0 0;
+  border: 1px solid #BB9D13;
   border-radius: 32px;
   color: #fff;
   font-size: 16px;
@@ -2733,7 +2766,7 @@ span.email-notes {
 }
 .order-detail-content .wish-cart:hover {
   background: #fff;
-  color: #ef6644;
+  color: #BB9D13;
 }
 .order-detail-content .sharing-icon{
   float: inherit;
@@ -2743,7 +2776,7 @@ span.email-notes {
   margin: 0 5px;
 }
 .order-detail-content .sharing-icon > a:hover {
-  color: #ef6644;
+  color: #BB9D13;
 }
 /* ==================================
   24. Contact Page
@@ -2762,7 +2795,7 @@ span.email-notes {
   position: relative;
   top: -40px;
   width: 80px;
-  background: #ef6644;
+  background: #BB9D13;
 }
 .info-dis {
   margin-top: -12px;
@@ -2896,7 +2929,7 @@ span.email-notes {
   font-weight: 700;
 }
 .order-img > span {
-  background: #ef6644;
+  background: #BB9D13;
   border-radius: 100%;
   color: #fff;
   display: block;
@@ -2974,7 +3007,7 @@ table.full {
   display: block;
 }
 .full > tbody > tr > td > a:hover{
-  color: #ef6644 ;
+  color: #BB9D13 ;
 }
 .full > tbody > tr > td > a > span{
   display: block;
@@ -3031,7 +3064,7 @@ table.full {
   text-transform: uppercase;
 }
 .about-us-area .service-icon {
-  border: 1px solid #ef6644;
+  border: 1px solid #BB9D13;
   border-radius: 100%;
   display: block;
   height: 80px;
@@ -3137,7 +3170,7 @@ table.full {
     margin-left: 10px;
 }
 .member-social a:hover {
-    color: #ef6644;
+    color: #BB9D13;
 }
 
 /* ==================================
@@ -3286,7 +3319,7 @@ table.full {
 }
 .author-ac-info {
     background: #f2f2f2 none repeat scroll 0 0;
-    border-bottom: 1px solid #ef6644;
+    border-bottom: 1px solid #BB9D13;
     border-radius: 32px 32px 0 0;
     overflow: hidden;
     padding: 10px;
@@ -3319,7 +3352,7 @@ table.full {
   float: right;
 }
 .account-menu li a:hover{
-  color: #ef6644;
+  color: #BB9D13;
 }
 .my-account-area .table-wrap tr{
   border-bottom: 1px solid #ddd;
