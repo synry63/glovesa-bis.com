@@ -48,6 +48,9 @@
 /*----------------------------------------*/
 /*  1.  Theme default CSS
 /*----------------------------------------*/
+* {
+  outline: 1px solid red;
+}
 html, body {height: 100%;}
 .floatleft {float:left}
 .floatright {float:right}
@@ -243,7 +246,7 @@ body {
     padding: 30px 0;
 }
 .logo {
-  width: 160px;
+  width: 250px;
   margin: 0 auto;
 }
 .header-middel-area .row .logo a {

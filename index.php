@@ -397,10 +397,12 @@
                                                     <div class="product-img">
                                                         <div class="product-img-2">
                                                             <a href="shop-details.html">
-                                                                 <img alt="" src="img/product/producto1.png" class="primary-img">
-                                                                 <img alt="" src="img/product/producto1.png" class="secondary-img">
-<!--                                                                 <img alt="" src="img/product/box_1st-generation/HQ_4_CANALES_X_2700_gr/producto1.png" class="primary-img">-->
-<!--                                                                 <img alt="" src="img/product/box_1st-generation/HQ_4_CANALES_X_2700_gr/producto1.png" class="secondary-img">-->
+<!--                                                                 <img alt="" src="img/product/1.jpg" class="primary-img">-->
+<!--                                                                 <img alt="" src="img/product/2.jpg" class="secondary-img">-->
+                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N1/HQ_4_CANALES_X_2700_gr/caja8.jpg" class="primary-img" width="150" height="150">
+<!--                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N1/HQ_4_CANALES_X_2700_gr/caja8.jpg" class="secondary-img" width="150" height="auto">-->
+<!--                                                                <img alt="" src="img/product/CAJAS_MINERAS_N1/HQ_4_CANALES_X_2700_gr/caja1.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/CAJAS_MINERAS_N1/HQ_4_CANALES_X_2700_gr/caja2.jpg" class="secondary-img">-->
                                                             </a>
                                                             <div class="button-group">
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
@@ -409,22 +411,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -448,19 +450,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -482,22 +484,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -521,19 +523,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -555,22 +557,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -594,19 +596,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -628,22 +630,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -667,19 +669,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -701,22 +703,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -740,19 +742,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -780,22 +782,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -819,19 +821,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -853,22 +855,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -892,19 +894,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -926,22 +928,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -965,19 +967,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -999,22 +1001,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1038,19 +1040,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1072,22 +1074,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1111,19 +1113,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1151,22 +1153,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1190,19 +1192,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1224,22 +1226,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1263,19 +1265,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1297,22 +1299,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1336,19 +1338,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1370,22 +1372,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1409,19 +1411,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1443,22 +1445,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1482,19 +1484,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1522,22 +1524,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1561,19 +1563,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1595,22 +1597,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1634,19 +1636,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1668,22 +1670,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1707,19 +1709,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1741,22 +1743,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1780,19 +1782,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1814,22 +1816,22 @@
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-                                                        <span class="product-c"><span>Sale</span></span>
+<!--                                                        <span class="product-c"><span>Sale</span></span>-->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">lami tok hi</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$3000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1853,19 +1855,19 @@
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">ami tui yo</a></h2>
-                                                        <div class="price">
-                                                            <span class="new-price"><span>$5000</span></span>
-                                                            <span class="old-price"><span>$6000</span></span>
-                                                        </div>
-                                                        <div class="rating">
-                                                            <ul>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
-                                                            </ul>
-                                                        </div>
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1914,18 +1916,18 @@
                                 </div>
                                 <div class="product-info">
                                     <h2><a href="shop-details.html">kota boom</a></h2>
-                                    <div class="price">
-                                        <span class="new-price"><span>$6000</span></span>
-                                    </div>
-                                    <div class="rating">
-                                        <ul>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
+<!--                                    <div class="price">-->
+<!--                                        <span class="new-price"><span>$6000</span></span>-->
+<!--                                    </div>-->
+<!--                                    <div class="rating">-->
+<!--                                        <ul>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                        </ul>-->
+<!--                                    </div>-->
                                 </div>
                             </div>
                         </div>
@@ -1949,18 +1951,18 @@
                                 </div>
                                 <div class="product-info">
                                     <h2><a href="shop-details.html">kota boom</a></h2>
-                                    <div class="price">
-                                        <span class="new-price"><span>$6000</span></span>
-                                    </div>
-                                    <div class="rating">
-                                        <ul>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
+<!--                                    <div class="price">-->
+<!--                                        <span class="new-price"><span>$6000</span></span>-->
+<!--                                    </div>-->
+<!--                                    <div class="rating">-->
+<!--                                        <ul>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                        </ul>-->
+<!--                                    </div>-->
                                 </div>
                             </div>
                         </div>
@@ -1984,18 +1986,18 @@
                                 </div>
                                 <div class="product-info">
                                     <h2><a href="shop-details.html">kota boom</a></h2>
-                                    <div class="price">
-                                        <span class="new-price"><span>$6000</span></span>
-                                    </div>
-                                    <div class="rating">
-                                        <ul>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
+<!--                                    <div class="price">-->
+<!--                                        <span class="new-price"><span>$6000</span></span>-->
+<!--                                    </div>-->
+<!--                                    <div class="rating">-->
+<!--                                        <ul>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                        </ul>-->
+<!--                                    </div>-->
                                 </div>
                             </div>
                         </div>
@@ -2019,18 +2021,18 @@
                                 </div>
                                 <div class="product-info">
                                     <h2><a href="shop-details.html">kota boom</a></h2>
-                                    <div class="price">
-                                        <span class="new-price"><span>$6000</span></span>
-                                    </div>
-                                    <div class="rating">
-                                        <ul>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>
-                                        </ul>
-                                    </div>
+<!--                                    <div class="price">-->
+<!--                                        <span class="new-price"><span>$6000</span></span>-->
+<!--                                    </div>-->
+<!--                                    <div class="rating">-->
+<!--                                        <ul>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                            <li><i aria-hidden="true" class="fa fa-star"></i></li>-->
+<!--                                        </ul>-->
+<!--                                    </div>-->
                                 </div>
                             </div>
                         </div>
@@ -2291,6 +2293,8 @@
                         <div class="product-img">
                             <div class="product-img-2">
                                 <a href="shop-details.html">
+<!--                                    <img class="primary-img" src="img/product/CAJAS_MINERAS_N1/HQ_4_CANALES_X_2700_gr/caja1.jpg" alt="">-->
+<!--                                    <img class="secondary-img" src="img/product/CAJAS_MINERAS_N1/HQ_4_CANALES_X_2700_gr/caja2.jpg" alt="">-->
                                     <img class="primary-img" src="img/product/7.jpg" alt="">
                                     <img class="secondary-img" src="img/product/8.jpg" alt="">
                                 </a>

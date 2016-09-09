@@ -87,7 +87,7 @@
 						<div class="main-menu">
 							<nav>
 								<ul>
-									<li class="active"><a href="index.html">Nuestros productos</a>
+<!--									<li class="active"><a href="index.html">Nuestros productos</a>
 										<div class="mega-menu">
 											<span>
 												<a class="mega-title" href="#">WOMEN CLOTH </a>
@@ -118,8 +118,8 @@
 												<a href="shop.html">muscle tee </a>
 											</span>
 										</div>
-									</li>
-									<li><a href="about-us.html">Proceso de trabajo</a></li>
+									</li>-->
+<!--									<li><a href="about-us.html">Proceso de trabajo</a></li>-->
 									<li>
 										<div class="logo">
 											<a href="index.html">
@@ -128,8 +128,8 @@
 										</div>
 									</li>
 
-									<li><a href="shop.html">Nuestro equipo</a></li>
-									<li><a href="shop.html">Contáctanos</a></li>
+<!--									<li><a href="shop.html">Nuestro equipo</a></li>-->
+<!--									<li><a href="shop.html">Contáctanos</a></li>-->
 								</ul>
 							</nav>
 						</div>
