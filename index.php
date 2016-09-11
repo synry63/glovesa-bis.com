@@ -56,12 +56,129 @@
 <!-- Start Slider Area -->
 <div class="slider-area">
     <div class="bend niceties preview-2">
+        <!-- OLD SLIDER
         <div id="my-nivoslider" class="slides">
             <img src="img/slider/slider1.jpg" alt="" title="#slider-item-2"  />
             <img src="img/slider/slider2.jpg" alt="" title="#slider-item-1"  />
             <img src="img/slider/slider3.jpg" alt="" title="#slider-item-3"  />
             <img src="img/slider/slider4.jpg" alt="" title="#slider-item-4"  />
         </div>
+        --!>
+
+        <!-- template -->
+        <div class="ms-layers-template">
+        <!-- masterslider -->
+        <div class="master-slider ms-skin-black-2 round-skin" id="masterslider">
+            <div class="ms-slide slide-1" style="z-index: 10" data-delay="0">
+                <img src="lib/masterslider/style/blank.gif" data-src="img/slider1.jpg" alt="lorem ipsum dolor sit"/>
+
+                <div class="ms-layer text-box" style="left:-200px; top:40px"
+                     data-effect="rotatebottom(40,250,c)"
+                     data-duration="3000"
+                     data-delay="0"
+                     data-ease="easeOutExpo"
+                    > </div>
+
+                <h3 class="ms-layer light-title" style="left:-150px; top:45px"
+                    data-effect="left(short)"
+                    data-duration="3500"
+                    data-delay="900"
+                    data-ease="easeOutExpo"
+                    >HQ 4 CANALES X 2700 gr</h3>
+
+                <img src="lib/masterslider/style/blank.gif" data-src="img/HQ_4_CANALES_X_2700_gr.png" alt="layer" class="ms-layer"
+                     style="width: 320px;right: 0px;top:20px"
+                     data-effect="right(long)"
+                     data-duration="900"
+                     data-delay="1500"
+                     data-type="image"
+                    />
+
+            </div>
+            <div class="ms-slide slide-2" style="z-index: 11" data-delay="0">
+                <img src="lib/masterslider/style/blank.gif" data-src="img/slider6.jpg" alt="lorem ipsum dolor sit"/>
+
+                <div class="ms-layer text-box" style="right:-200px; top:40px "
+                     data-effect="rotateright(40,250,c)"
+                     data-duration="2500"
+                     data-delay="0"
+                     data-ease="easeOutExpo"
+                    > </div>
+
+                <h3 class="ms-layer light-title" style="right:-220px; top:45px"
+                    data-effect="right(short)"
+                    data-duration="3500"
+                    data-delay="900"
+                    data-ease="easeOutExpo"
+                    >HQ 3 CANALES X 1500 gr</h3>
+
+                <img src="lib/masterslider/style/blank.gif" data-src="img/HQ_3_CANALES_X_1500_gr.png" alt="layer" class="ms-layer"
+                     style="width: 320px;left: 0px;top:20px"
+                     data-effect="left(long)"
+                     data-duration="900"
+                     data-delay="1500"
+                     data-type="image"
+                    />
+
+            </div>
+
+            <div class="ms-slide slide-3" style="z-index: 12" data-delay="0">
+                <img src="lib/masterslider/style/blank.gif" data-src="img/slider3.jpg" alt="lorem ipsum dolor sit"/>
+
+                <div class="ms-layer text-box" style="left:-200px; top:40px"
+                     data-effect="rotateleft(40,250,c)"
+                     data-duration="2500"
+                     data-delay="0"
+                     data-ease="easeOutExpo"
+                    > </div>
+
+                <h3 class="ms-layer light-title" style="left:-140px; top:45px"
+                    data-effect="left(short)"
+                    data-duration="3500"
+                    data-delay="900"
+                    data-ease="easeOutExpo"
+                    >PQ 2 CANALES X 1700 gr</h3>
+
+
+                <img src="lib/masterslider/style/blank.gif" data-src="img/PQ_2_CANALES_X_1700_gr.png" alt="layer" class="ms-layer"
+                     style="width: 320px;right: 0px;top:20px"
+                     data-effect="fade"
+                     data-duration="900"
+                     data-delay="1500"
+                     data-type="image"
+                    />
+            </div>
+            <div class="ms-slide slide-4" style="z-index: 13" data-delay="3">
+                <img src="lib/masterslider/style/blank.gif" data-src="img/slider8.jpg" alt="lorem ipsum dolor sit"/>
+
+                <div class="ms-layer text-box" style="right:-200px; top:40px "
+                     data-effect="rotatebottom(40,250,c)"
+                     data-duration="3000"
+                     data-delay="0"
+                     data-ease="easeOutExpo"
+                    > </div>
+
+                <h3 class="ms-layer light-title" style="right:-220px; top:45px"
+                    data-effect="right(short)"
+                    data-duration="3500"
+                    data-delay="900"
+                    data-ease="easeOutExpo"
+                    >NQ 5 CANALES X 2700 gr</h3>
+
+                <img src="lib/masterslider/style/blank.gif" data-src="img/NQ_5_CANALES_X_2700_gr.png" alt="layer" class="ms-layer"
+                     style="width: 320px;left: 0px;top:20px"
+                     data-effect="left(long)"
+                     data-duration="900"
+                     data-delay="1500"
+                     data-type="image"
+                    />
+
+            </div>
+        </div>
+        <!-- end of masterslider -->
+        </div>
+        <!-- end of template -->
+
         <!-- item 1 -->
         <div id="slider-item-2" class="nivo-html-caption slider-item">
             <div class="container">

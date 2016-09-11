@@ -18,8 +18,6 @@
         <link rel="stylesheet" href="css/bootstrap.min.css">
 		<!-- animate css -->
         <link rel="stylesheet" href="css/animate.css">
-		<!-- jquery-ui.min css -->
-        <link rel="stylesheet" href="css/jquery-ui.min.css">
 		<!-- nivo slider CSS
 		============================================ -->
 		<link rel="stylesheet" href="lib/css/nivo-slider.css" type="text/css" />
@@ -30,12 +28,35 @@
         <link rel="stylesheet" href="css/owl.carousel.css">
 		<!-- font-awesome css -->
         <link rel="stylesheet" href="css/font-awesome.min.css">
+
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
+
 		<!-- style css -->
 		<link rel="stylesheet" href="style.css">
 		<!-- responsive css -->
         <link rel="stylesheet" href="css/responsive.css">
 		<!-- modernizr css -->
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
+        <!-- Base MasterSlider style sheet -->
+        <link rel="stylesheet" href="../lib/masterslider/style/masterslider.css" />
+
+        <!-- Master Slider Skin -->
+        <link href="../lib/masterslider/skins/black-2/style.css" rel='stylesheet' type='text/css'>
+
+        <!-- MasterSlider Template Style -->
+        <link href='../css/ms-layers-style.css' rel='stylesheet' type='text/css'>
+
+        <!-- google font Lato -->
+        <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
+
+        <!-- jQuery -->
+        <script src="../lib/masterslider/jquery.min.js"></script>
+        <script src="../lib/masterslider/jquery.easing.min.js"></script>
+
+        <!-- Master Slider -->
+        <script src="../lib/masterslider/masterslider.min.js"></script>
+
     </head>
     <body>
         <!--[if lt IE 8]>
@@ -122,8 +143,9 @@
 <!--									<li><a href="about-us.html">Proceso de trabajo</a></li>-->
 									<li>
 										<div class="logo">
-											<a href="index.html">
-												<img src="img/logo/logo_web.png" alt="Logo Globesa">
+											<a href="index.php">
+                                                <!--<img src="img/logo/logo_web.png" alt="Logo Globesa">-->
+                                                <img src="../img/logo-01.png" alt="Logo Globesa">
 											</a>
 										</div>
 									</li>

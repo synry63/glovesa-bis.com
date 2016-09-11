@@ -1,12 +1,27 @@
 (function ($) {
  "use strict";
 
- 
- 
+    var slider = new MasterSlider();
+    slider.setup('masterslider' , {
+        width:1024,
+        height:500,
+        //space:100,
+        //fullwidth:true,
+        layout:"fullwidth",
+        loop:true,
+        autoplay:false,
+        centerControls:false,
+        speed:8,
+        instantStartLayers:true,
+        view:'fade'
+    });
+    slider.control('arrows');
+    slider.control('bullets' ,{autohide:false});
 
-/*----------------------------
- jQuery MeanMenu
------------------------------- */
+    $( "#tabs" ).tabs();
+    /*----------------------------
+     jQuery MeanMenu
+    ------------------------------ */
 	$('nav#nav-mobile').meanmenu();		
 	
  
