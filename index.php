@@ -496,7 +496,8 @@
                             <div class="tab-menu-top">
                                 <!-- Nav tabs -->
                                 <ul class="tab-menus">
-                                    <li class="active" role="presentation"><a data-toggle="tab" role="tab" aria-controls="woman" href="#woman">1era generación</a></li>
+                                    <li class="active" role="presentation"><a data-toggle="tab" role="tab" aria-controls="all" href="#all">todos</a></li>
+                                    <li role="presentation"><a data-toggle="tab" role="tab" aria-controls="woman" href="#woman">1era generación</a></li>
                                     <li role="presentation"><a data-toggle="tab" role="tab" aria-controls="man" href="#man">2da generación</a></li>
                                     <li role="presentation"><a data-toggle="tab" role="tab" aria-controls="kid" href="#kid">3era generación</a></li>
                                     <li role="presentation"><a data-toggle="tab" role="tab" aria-controls="jewllery" href="#jewllery">4ta generación</a></li>
@@ -504,8 +505,382 @@
                             </div>
                         </div>
                         <div class="tab-content">
+
+                            <!-- start all generation -->
+                            <div role="tabpanel" class="tab-pane active" id="all">
+                                <div class="row">
+                                    <div class="active-items-4">
+                                        <div class="col-md-12">
+                                            <!-- Start Single Product -->
+                                            <div class="">
+                                                <div class="single-product">
+                                                    <div class="product-img">
+                                                        <div class="product-img-2">
+                                                            <a href="detalle_producto-hq_4_canales_x_2700gr.php">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N1/HQ_4_CANALES_X_2700_gr/caja77.jpg" class="primary-img">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N1/HQ_4_CANALES_X_2700_gr/caja99.jpg" class="secondary-img">
+                                                            </a>
+                                                            <div class="button-group">
+                                                                <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
+                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
+                                                            </div>
+                                                        </div>
+                                                        <!--                                                        <span class="product-c"><span>Sale</span></span>-->
+                                                    </div>
+                                                    <div class="product-info">
+                                                        <h2><a href="shop-details.html">HQ 4 CANALES X 2700 GR</a></h2>
+                                                        <!--                                                        <div class="price">-->
+                                                        <!--                                                            <span class="new-price"><span>$3000</span></span>-->
+                                                        <!--                                                        </div>-->
+                                                        <!--                                                        <div class="rating">-->
+                                                        <!--                                                            <ul>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                            </ul>-->
+                                                        <!--                                                        </div>-->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Product -->
+                                            <!-- Start Single Product -->
+                                            <div class="kp-mar-3">
+                                                <div class="single-product">
+                                                    <div class="product-img">
+                                                        <div class="product-img-2">
+                                                            <a href="detalle_producto-nq_5_canales_x_2700gr.php">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N1/NQ_5_CANALES_X_2700_GR/caja33.jpg" class="primary-img">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N1/NQ_5_CANALES_X_2700_GR/caja55.jpg" class="secondary-img">
+                                                            </a>
+                                                            <div class="button-group">
+                                                                <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
+                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-info">
+                                                        <h2><a href="shop-details.html">NQ 5 CANALES X 2700 GR</a></h2>
+                                                        <!--                                                        <div class="price">-->
+                                                        <!--                                                            <span class="new-price"><span>$5000</span></span>-->
+                                                        <!--                                                            <span class="old-price"><span>$6000</span></span>-->
+                                                        <!--                                                        </div>-->
+                                                        <!--                                                        <div class="rating">-->
+                                                        <!--                                                            <ul>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                            </ul>-->
+                                                        <!--                                                        </div>-->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <!-- Start Single Product -->
+                                            <div class="">
+                                                <div class="single-product">
+                                                    <div class="product-img">
+                                                        <div class="product-img-2">
+                                                            <a href="detalle_producto-pq_2_canales_x_1700gr.php">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N1/PQ_2_CANALES_X_1700_GR/caja44.jpg" class="primary-img">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N1/PQ_2_CANALES_X_1700_GR/caja77.jpg" class="secondary-img">
+                                                            </a>
+                                                            <div class="button-group">
+                                                                <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
+                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
+                                                            </div>
+                                                        </div>
+                                                        <!--                                                        <span class="product-c"><span>Sale</span></span>-->
+                                                    </div>
+                                                    <div class="product-info">
+                                                        <h2><a href="shop-details.html">PQ 2 CANALES X 1700 GR</a></h2>
+                                                        <!--                                                        <div class="price">-->
+                                                        <!--                                                            <span class="new-price"><span>$3000</span></span>-->
+                                                        <!--                                                        </div>-->
+                                                        <!--                                                        <div class="rating">-->
+                                                        <!--                                                            <ul>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                            </ul>-->
+                                                        <!--                                                        </div>-->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Product -->
+                                            <!-- Start Single Product -->
+                                            <div class="kp-mar-3">
+                                                <div class="single-product">
+                                                    <div class="product-img">
+                                                        <div class="product-img-2">
+                                                            <a href="detalle_producto-n2_hq_3_canales.php">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N2/N2_HQ_3_CANALES/caja55.jpg" class="primary-img">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N2/N2_HQ_3_CANALES/caja44.jpg" class="secondary-img">
+                                                            </a>
+                                                            <div class="button-group">
+                                                                <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
+                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-info">
+                                                        <h2><a href="shop-details.html">N2 HQ 3 CANALES</a></h2>
+                                                        <!--                                                        <div class="price">-->
+                                                        <!--                                                            <span class="new-price"><span>$5000</span></span>-->
+                                                        <!--                                                            <span class="old-price"><span>$6000</span></span>-->
+                                                        <!--                                                        </div>-->
+                                                        <!--                                                        <div class="rating">-->
+                                                        <!--                                                            <ul>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                            </ul>-->
+                                                        <!--                                                        </div>-->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <!-- Start Single Product -->
+                                            <div class="">
+                                                <div class="single-product">
+                                                    <div class="product-img">
+                                                        <div class="product-img-2">
+                                                            <a href="detalle_producto-n2_hq_4_canales_apilable.php">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N2/N2_HQ_4_CANALES_APILABLE/caja33.jpg" class="primary-img">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N2/N2_HQ_4_CANALES_APILABLE/caja55.jpg" class="secondary-img">
+                                                            </a>
+                                                            <div class="button-group">
+                                                                <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
+                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
+                                                            </div>
+                                                        </div>
+                                                        <!--                                                        <span class="product-c"><span>Sale</span></span>-->
+                                                    </div>
+                                                    <div class="product-info">
+                                                        <h2><a href="shop-details.html">N2 HQ 4 CANALES APILABLE</a></h2>
+                                                        <!--                                                        <div class="price">-->
+                                                        <!--                                                            <span class="new-price"><span>$3000</span></span>-->
+                                                        <!--                                                        </div>-->
+                                                        <!--                                                        <div class="rating">-->
+                                                        <!--                                                            <ul>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                            </ul>-->
+                                                        <!--                                                        </div>-->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Product -->
+                                            <!-- Start Single Product -->
+                                            <div class="kp-mar-3">
+                                                <div class="single-product">
+                                                    <div class="product-img">
+                                                        <div class="product-img-2">
+                                                            <a href="detalle_producto-n2_nq_5_canales_x_1600gr.php">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N2/N2_NQ_5_CANALES_X_1600_GR/caja33.jpg" class="primary-img">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N2/N2_NQ_5_CANALES_X_1600_GR/caja55.jpg" class="secondary-img">
+                                                            </a>
+                                                            <div class="button-group">
+                                                                <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
+                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-info">
+                                                        <h2><a href="shop-details.html">N2 NQ 5 CANALES X 1600 GR</a></h2>
+                                                        <!--                                                        <div class="price">-->
+                                                        <!--                                                            <span class="new-price"><span>$5000</span></span>-->
+                                                        <!--                                                            <span class="old-price"><span>$6000</span></span>-->
+                                                        <!--                                                        </div>-->
+                                                        <!--                                                        <div class="rating">-->
+                                                        <!--                                                            <ul>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                            </ul>-->
+                                                        <!--                                                        </div>-->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <!-- Start Single Product -->
+                                            <div class="">
+                                                <div class="single-product">
+                                                    <div class="product-img">
+                                                        <div class="product-img-2">
+                                                            <a href="detalle_producto-hq_4_canales_x_2100gr.php">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N3/HQ_4_CANALES_X_2100_GR/caja77.jpg" class="primary-img">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N3/HQ_4_CANALES_X_2100_GR/caja99.jpg" class="secondary-img">
+                                                            </a>
+                                                            <div class="button-group">
+                                                                <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
+                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
+                                                            </div>
+                                                        </div>
+                                                        <!--                                                        <span class="product-c"><span>Sale</span></span>-->
+                                                    </div>
+                                                    <div class="product-info">
+                                                        <h2><a href="shop-details.html">HQ 4 CANALES X 2100 GR</a></h2>
+                                                        <!--                                                        <div class="price">-->
+                                                        <!--                                                            <span class="new-price"><span>$3000</span></span>-->
+                                                        <!--                                                        </div>-->
+                                                        <!--                                                        <div class="rating">-->
+                                                        <!--                                                            <ul>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                            </ul>-->
+                                                        <!--                                                        </div>-->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Product -->
+                                            <!-- Start Single Product -->
+                                            <div class="kp-mar-3">
+                                                <div class="single-product">
+                                                    <div class="product-img">
+                                                        <div class="product-img-2">
+                                                            <a href="detalle_producto-nq_5_canales_x_2100gr.php">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N3/NQ_5_CANALES_X_2100_GR/caja33.jpg" class="primary-img">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N3/NQ_5_CANALES_X_2100_GR/caja55.jpg" class="secondary-img">
+                                                            </a>
+                                                            <div class="button-group">
+                                                                <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
+                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-info">
+                                                        <h2><a href="shop-details.html">NQ 5 CANALES X 2100 GR</a></h2>
+                                                        <!--                                                        <div class="price">-->
+                                                        <!--                                                            <span class="new-price"><span>$5000</span></span>-->
+                                                        <!--                                                            <span class="old-price"><span>$6000</span></span>-->
+                                                        <!--                                                        </div>-->
+                                                        <!--                                                        <div class="rating">-->
+                                                        <!--                                                            <ul>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                            </ul>-->
+                                                        <!--                                                        </div>-->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <!-- Start Single Product -->
+                                            <div class="">
+                                                <div class="single-product">
+                                                    <div class="product-img">
+                                                        <div class="product-img-2">
+                                                            <a href="detalle_producto-hq_4_canales.php">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N4_INSERTABLE_SIN_FALDA/HQ_4_CANALES/caja11.jpg" class="primary-img">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N4_INSERTABLE_SIN_FALDA/HQ_4_CANALES/caja55.jpg" class="secondary-img">
+                                                            </a>
+                                                            <div class="button-group">
+                                                                <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
+                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
+                                                            </div>
+                                                        </div>
+                                                        <!--                                                        <span class="product-c"><span>Sale</span></span>-->
+                                                    </div>
+                                                    <div class="product-info">
+                                                        <h2><a href="shop-details.html">HQ 4 CANALES</a></h2>
+                                                        <!--                                                        <div class="price">-->
+                                                        <!--                                                            <span class="new-price"><span>$3000</span></span>-->
+                                                        <!--                                                        </div>-->
+                                                        <!--                                                        <div class="rating">-->
+                                                        <!--                                                            <ul>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                            </ul>-->
+                                                        <!--                                                        </div>-->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- End Single Product -->
+                                            <!-- Start Single Product -->
+                                            <div class="kp-mar-3">
+                                                <div class="single-product">
+                                                    <div class="product-img">
+                                                        <div class="product-img-2">
+                                                            <a href="detalle_producto-nq_5_canales.php">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N4_INSERTABLE_SIN_FALDA/NQ_5_CANALES/caja22.jpg" class="primary-img">
+                                                                <img alt="" src="img/product/CAJAS_MINERAS_N4_INSERTABLE_SIN_FALDA/NQ_5_CANALES/caja55.jpg" class="secondary-img">
+                                                            </a>
+                                                            <div class="button-group">
+                                                                <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
+                                                                <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
+                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="product-info">
+                                                        <h2><a href="shop-details.html">NQ 5 CANALES</a></h2>
+                                                        <!--                                                        <div class="price">-->
+                                                        <!--                                                            <span class="new-price"><span>$5000</span></span>-->
+                                                        <!--                                                            <span class="old-price"><span>$6000</span></span>-->
+                                                        <!--                                                        </div>-->
+                                                        <!--                                                        <div class="rating">-->
+                                                        <!--                                                            <ul>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+                                                        <!--                                                            </ul>-->
+                                                        <!--                                                        </div>-->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end all generation-->
                             <!-- start 1st generation-->
-                            <div id="woman" class="tab-pane active" role="tabpanel">
+                            <div id="woman" class="tab-pane" role="tabpanel">
                                 <div class="row">
                                     <div class="active-items-4">
                                         <div class="col-md-12">
@@ -587,7 +962,7 @@
                                                 <div class="single-product">
                                                     <div class="product-img">
                                                         <div class="product-img-2">
-                                                            <a href="shop-details.html">
+                                                            <a href="detalle_producto-nq_5_canales_x_2700gr.php">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N1/NQ_5_CANALES_X_2700_GR/caja33.jpg" class="primary-img">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N1/NQ_5_CANALES_X_2700_GR/caja55.jpg" class="secondary-img">
                                                             </a>
@@ -660,7 +1035,7 @@
                                                 <div class="single-product">
                                                     <div class="product-img">
                                                         <div class="product-img-2">
-                                                            <a href="shop-details.html">
+                                                            <a href="detalle_producto-pq_2_canales_x_1700gr.php">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N1/PQ_2_CANALES_X_1700_GR/caja44.jpg" class="primary-img">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N1/PQ_2_CANALES_X_1700_GR/caja77.jpg" class="secondary-img">
                                                             </a>
@@ -743,7 +1118,7 @@
                                                 <div class="single-product">
                                                     <div class="product-img">
                                                         <div class="product-img-2">
-                                                            <a href="shop-details.html">
+                                                            <a href="detalle_producto-n2_hq_3_canales.php">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N2/N2_HQ_3_CANALES/caja55.jpg" class="primary-img">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N2/N2_HQ_3_CANALES/caja44.jpg" class="secondary-img">
                                                             </a>
@@ -775,24 +1150,24 @@
                                             </div>
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/12.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/13.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/12.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/13.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -806,9 +1181,9 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                         </div>
                                         <div class="col-md-12">
                                             <!-- Start Single Product -->
@@ -816,7 +1191,7 @@
                                                 <div class="single-product">
                                                     <div class="product-img">
                                                         <div class="product-img-2">
-                                                            <a href="shop-details.html">
+                                                            <a href="detalle_producto-n2_hq_4_canales_apilable.php">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N2/N2_HQ_4_CANALES_APILABLE/caja33.jpg" class="primary-img">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N2/N2_HQ_4_CANALES_APILABLE/caja55.jpg" class="secondary-img">
                                                             </a>
@@ -848,24 +1223,24 @@
                                             </div>
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/9.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/6.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/9.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/6.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -879,9 +1254,9 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                         </div>
                                         <div class="col-md-12">
                                             <!-- Start Single Product -->
@@ -889,7 +1264,7 @@
                                                 <div class="single-product">
                                                     <div class="product-img">
                                                         <div class="product-img-2">
-                                                            <a href="shop-details.html">
+                                                            <a href="detalle_producto-n2_nq_5_canales_x_1600gr.php">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N2/N2_NQ_5_CANALES_X_1600_GR/caja33.jpg" class="primary-img">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N2/N2_NQ_5_CANALES_X_1600_GR/caja55.jpg" class="secondary-img">
                                                             </a>
@@ -921,24 +1296,24 @@
                                             </div>
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/14.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/15.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/14.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/15.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -952,31 +1327,31 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                         </div>
-                                        <div class="col-md-12">
+<!--                                        <div class="col-md-12">-->
                                             <!-- Start Single Product -->
-                                            <div class="">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/11.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/12.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/11.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/12.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
 <!--                                                        <span class="product-c"><span>Sale</span></span>-->
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$3000</span></span>-->
 <!--                                                        </div>-->
@@ -989,29 +1364,29 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/10.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/13.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/10.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/13.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -1025,31 +1400,31 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                        <div class="col-md-12">-->
                                             <!-- Start Single Product -->
-                                            <div class="">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/2.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/3.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/2.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/3.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
 <!--                                                        <span class="product-c"><span>Sale</span></span>-->
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$3000</span></span>-->
 <!--                                                        </div>-->
@@ -1062,29 +1437,29 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/12.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/14.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/12.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/14.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -1098,10 +1473,10 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
                                     </div>
                                 </div>
                             </div>
@@ -1116,7 +1491,7 @@
                                                 <div class="single-product">
                                                     <div class="product-img">
                                                         <div class="product-img-2">
-                                                            <a href="shop-details.html">
+                                                            <a href="detalle_producto-hq_4_canales_x_2100gr.php">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N3/HQ_4_CANALES_X_2100_GR/caja77.jpg" class="primary-img">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N3/HQ_4_CANALES_X_2100_GR/caja99.jpg" class="secondary-img">
                                                             </a>
@@ -1148,24 +1523,24 @@
                                             </div>
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/9.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/6.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/9.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/6.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -1179,9 +1554,9 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                         </div>
                                         <div class="col-md-12">
                                             <!-- Start Single Product -->
@@ -1189,7 +1564,7 @@
                                                 <div class="single-product">
                                                     <div class="product-img">
                                                         <div class="product-img-2">
-                                                            <a href="shop-details.html">
+                                                            <a href="detalle_producto-nq_5_canales_x_2100gr.php">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N3/NQ_5_CANALES_X_2100_GR/caja33.jpg" class="primary-img">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N3/NQ_5_CANALES_X_2100_GR/caja55.jpg" class="secondary-img">
                                                             </a>
@@ -1221,24 +1596,24 @@
                                             </div>
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/12.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/13.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/12.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/13.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -1252,31 +1627,104 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                         </div>
-                                        <div class="col-md-12">
+<!--                                        <div class="col-md-12">-->
                                             <!-- Start Single Product -->
-                                            <div class="">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/7.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/8.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/7.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/8.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
+<!--<!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->-->
+<!--<!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->-->
+<!--<!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->-->
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--<!--                                                        <span class="product-c"><span>Sale</span></span>-->-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>-->
+<!--<!--                                                        <div class="price">-->-->
+<!--<!--                                                            <span class="new-price"><span>$3000</span></span>-->-->
+<!--<!--                                                        </div>-->-->
+<!--<!--                                                        <div class="rating">-->-->
+<!--<!--                                                            <ul>-->-->
+<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->-->
+<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->-->
+<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->-->
+<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->-->
+<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->-->
+<!--<!--                                                            </ul>-->-->
+<!--<!--                                                        </div>-->-->
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
+                                            <!-- End Single Product -->
+                                            <!-- Start Single Product -->
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/10.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/14.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
+<!--                                                        <div class="price">-->
+<!--                                                            <span class="new-price"><span>$5000</span></span>-->
+<!--                                                            <span class="old-price"><span>$6000</span></span>-->
+<!--                                                        </div>-->
+<!--                                                        <div class="rating">-->
+<!--                                                            <ul>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--                                                            </ul>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                        <div class="col-md-12">-->
+                                            <!-- Start Single Product -->
+<!--                                            <div class="">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/2.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/3.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
+<!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
+<!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
+<!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
 <!--                                                        <span class="product-c"><span>Sale</span></span>-->
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$3000</span></span>-->
 <!--                                                        </div>-->
@@ -1289,29 +1737,29 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/10.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/14.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/12.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/14.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -1325,31 +1773,31 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                        <div class="col-md-12">-->
                                             <!-- Start Single Product -->
-                                            <div class="">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/2.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/3.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/2.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/3.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
 <!--                                                        <span class="product-c"><span>Sale</span></span>-->
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$3000</span></span>-->
 <!--                                                        </div>-->
@@ -1362,29 +1810,29 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/12.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/14.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/10.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/11.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -1398,83 +1846,10 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
-                                            <!-- Start Single Product -->
-                                            <div class="">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/2.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/3.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
-<!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
-<!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
-<!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-<!--                                                        <span class="product-c"><span>Sale</span></span>-->
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>
-<!--                                                        <div class="price">-->
-<!--                                                            <span class="new-price"><span>$3000</span></span>-->
-<!--                                                        </div>-->
-<!--                                                        <div class="rating">-->
-<!--                                                            <ul>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                            </ul>-->
-<!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <!-- End Single Product -->
-                                            <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/10.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/11.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
-<!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
-<!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
-<!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
-<!--                                                        <div class="price">-->
-<!--                                                            <span class="new-price"><span>$5000</span></span>-->
-<!--                                                            <span class="old-price"><span>$6000</span></span>-->
-<!--                                                        </div>-->
-<!--                                                        <div class="rating">-->
-<!--                                                            <ul>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                            </ul>-->
-<!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
                                     </div>
                                 </div>
                             </div>
@@ -1489,7 +1864,7 @@
                                                 <div class="single-product">
                                                     <div class="product-img">
                                                         <div class="product-img-2">
-                                                            <a href="shop-details.html">
+                                                            <a href="detalle_producto-hq_4_canales.php">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N4_INSERTABLE_SIN_FALDA/HQ_4_CANALES/caja11.jpg" class="primary-img">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N4_INSERTABLE_SIN_FALDA/HQ_4_CANALES/caja55.jpg" class="secondary-img">
                                                             </a>
@@ -1521,24 +1896,24 @@
                                             </div>
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/2.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/3.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/2.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/3.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -1552,9 +1927,9 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                         </div>
                                         <div class="col-md-12">
                                             <!-- Start Single Product -->
@@ -1562,7 +1937,7 @@
                                                 <div class="single-product">
                                                     <div class="product-img">
                                                         <div class="product-img-2">
-                                                            <a href="shop-details.html">
+                                                            <a href="detalle_producto-nq_5_canales.php">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N4_INSERTABLE_SIN_FALDA/NQ_5_CANALES/caja22.jpg" class="primary-img">
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N4_INSERTABLE_SIN_FALDA/NQ_5_CANALES/caja55.jpg" class="secondary-img">
                                                             </a>
@@ -1594,24 +1969,24 @@
                                             </div>
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/10.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/14.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/10.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/14.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -1625,31 +2000,31 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                         </div>
-                                        <div class="col-md-12">
+<!--                                        <div class="col-md-12">-->
                                             <!-- Start Single Product -->
-                                            <div class="">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/1.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/12.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/1.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/12.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
 <!--                                                        <span class="product-c"><span>Sale</span></span>-->
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$3000</span></span>-->
 <!--                                                        </div>-->
@@ -1662,29 +2037,29 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/12.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/1.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/12.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/1.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -1698,31 +2073,31 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                         </div>
-                                        <div class="col-md-12">
+<!--                                        <div class="col-md-12">-->
                                             <!-- Start Single Product -->
-                                            <div class="">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/2.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/3.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/2.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/3.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
 <!--                                                        <span class="product-c"><span>Sale</span></span>-->
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$3000</span></span>-->
 <!--                                                        </div>-->
@@ -1735,29 +2110,29 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/14.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/13.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/14.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/13.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -1771,31 +2146,31 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-12">
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
+<!--                                        <div class="col-md-12">-->
                                             <!-- Start Single Product -->
-                                            <div class="">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/2.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/3.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/2.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/3.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
 <!--                                                        <span class="product-c"><span>Sale</span></span>-->
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$3000</span></span>-->
 <!--                                                        </div>-->
@@ -1808,29 +2183,29 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
                                             <!-- End Single Product -->
                                             <!-- Start Single Product -->
-                                            <div class="kp-mar-3">
-                                                <div class="single-product">
-                                                    <div class="product-img">
-                                                        <div class="product-img-2">
-                                                            <a href="shop-details.html">
-                                                                <img alt="" src="img/product/9.jpg" class="primary-img">
-                                                                <img alt="" src="img/product/6.jpg" class="secondary-img">
-                                                            </a>
-                                                            <div class="button-group">
+<!--                                            <div class="kp-mar-3">-->
+<!--                                                <div class="single-product">-->
+<!--                                                    <div class="product-img">-->
+<!--                                                        <div class="product-img-2">-->
+<!--                                                            <a href="shop-details.html">-->
+<!--                                                                <img alt="" src="img/product/9.jpg" class="primary-img">-->
+<!--                                                                <img alt="" src="img/product/6.jpg" class="secondary-img">-->
+<!--                                                            </a>-->
+<!--                                                            <div class="button-group">-->
 <!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
 <!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
 <!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
-                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="product-info">
-                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>
+<!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
+<!--                                                            </div>-->
+<!--                                                        </div>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="product-info">-->
+<!--                                                        <h2><a href="shop-details.html">ami tui yo</a></h2>-->
 <!--                                                        <div class="price">-->
 <!--                                                            <span class="new-price"><span>$5000</span></span>-->
 <!--                                                            <span class="old-price"><span>$6000</span></span>-->
@@ -1844,10 +2219,10 @@
 <!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
 <!--                                                            </ul>-->
 <!--                                                        </div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
+<!--                                                    </div>-->
+<!--                                                </div>-->
+<!--                                            </div>-->
+<!--                                        </div>-->
                                     </div>
                                 </div>
                             </div>

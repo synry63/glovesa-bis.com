@@ -27,18 +27,24 @@
                 <div class="footer-widget">
                     <ul class="footer-contact">
                         <div class="col-lg-4 col-md-4 col-sm-4">
-                            <i class="fa fa-map-marker"> </i>
-                            <span>Jr. Comunidad Industrial Nº 333 – Urb. La Villa Chorrillos – Lima </span>
+                            <div class="footer-contacto-section">
+                                <i class="fa fa-map-marker"> </i>
+                                <span>Jr. Comunidad Industrial Nº 333 – Urb. La Villa Chorrillos – Lima </span>
+                            </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-4">
-                            <i class="fa fa-envelope"> </i>
-                            <span>Correo: admin@websbucket.com </span><br>
-                            <span>info@websbucket.com</span>
+                            <div class="footer-contacto-section">
+                                <i class="fa fa-envelope"> </i>
+                                <span>Correo: admin@websbucket.com </span><br>
+                                <span>info@websbucket.com</span>
+                            </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-4">
-                            <i class="fa fa-phone"> </i>
-                            <span>Teléfonos: (01) 249-0387</span><br>
-                            <span>(01) 251-6552</span>
+                            <div class="footer-contacto-section">
+                                <i class="fa fa-phone"> </i>
+                                <span>Teléfonos: (01) 249-0387</span><br>
+                                <span>(01) 251-6552</span>
+                            </div>
                         </div>
                     </ul>
                 </div>

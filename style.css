@@ -1550,6 +1550,11 @@ ul.footer-contact li i, .widget-icon > a > i {
 	width: 35px;
 	transition:.3s;
 }
+ul.footer-contact .footer-contacto-section {
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
 .widget-icon > a > i:hover{
 	background: #BB9D13;
 	color: #fff;
@@ -1881,9 +1886,9 @@ ul.footer-menu li a:hover{
 	float:left;
 }
 .zoom-tab > li > a > img{
-	border:1px solid #BB9D13;
+	border:1px solid #f1f1f1;
 }
-.single-product-details > h2 {
+.product-inner-info > h2 {
   border-bottom: 1px solid #ddd;
   font-size: 20px;
   font-weight: 700;
@@ -1897,9 +1902,9 @@ ul.footer-menu li a:hover{
   padding: 15px 0; 
 }
 .product-inner-info {
-  border-bottom: 1px solid #ddd;
+  /*border-bottom: 1px solid #ddd;*/
   margin-bottom: 20px;
-  padding: 15px 0;
+  /*padding: 15px 0;*/
 }
 .product-inner-info > span {
   color: #555;
@@ -2171,15 +2176,18 @@ ul.footer-menu li a:hover{
 /* ==================================
   19. Shop Page
 =====================================*/
-.heading-banner {
-  background: rgba(0, 0, 0, 0) url("img/blog/3.jpg") repeat scroll 0 0;
-  height: 150px;
+.background {
+  /*background: rgba(0, 0, 0, 0) url("img/cabecera_detalle_producto1.jpg") repeat scroll 0 0;*/
+  background-image: url("img/cabecera_detalle_producto22.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 123px;
 }
 .heading-banner{
   position: relative;
 }
 .breadcam {
-  bottom: -17.5px;
+  bottom: 1.5px;
   left: 15px;
   position: absolute;
 }
@@ -2209,10 +2217,17 @@ ul.footer-menu li a:hover{
 .breadcam ul li:last-child{
     color: #000000;
 }
+.page-banner-title {
+  display: inline-block;
+  background-color: rgba(31,31,31, .75);
+  padding: 10px 20px;
+  border-radius: 32px;
+}
 .page-banner-title > h2 {
   color: #fff;
   font-weight: 700;
   margin: 0;
+  /*text-shadow: rgba(0,0,0,.8) 2px 2px 0px;*/
   text-transform: uppercase;
 }
 .shop-tab-1 {

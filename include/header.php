@@ -29,7 +29,10 @@
 		<!-- font-awesome css -->
         <link rel="stylesheet" href="css/font-awesome.min.css">
 
-        <link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">
+        <!-- CDN JQUERY UI -->
+        <!-- <link rel="stylesheet" href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css">-->
+        <!-- jQuery UI -->
+        <link rel="stylesheet" href="./css/jquery-ui.css">
 
 		<!-- style css -->
 		<link rel="stylesheet" href="style.css">
