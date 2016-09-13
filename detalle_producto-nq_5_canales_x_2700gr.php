@@ -144,48 +144,39 @@
                                 <table>
                                     <tr>
                                         <td>proceso</td>
-                                        <td>:</td>
                                         <td>inyección</td>
                                     </tr>
                                     <tr>
                                         <td>medidas aprox.</td>
-                                        <td>:</td>
                                         <td>1065x388x66mm</td>
                                     </tr>
                                     <tr>
                                         <td>alojamiento</td>
-                                        <td>:</td>
-                                        <td>54.00 mm</td>
+                                        <td>54.00mm</td>
                                     </tr>
                                     <tr>
                                         <td>peso</td>
-                                        <td>:</td>
-                                        <td>2,700 ± 100 g</td>
+                                        <td>2,700 ± 100g</td>
                                     </tr>
                                     <tr>
                                         <td>numero de canales</td>
-                                        <td>:</td>
                                         <td>5</td>
                                     </tr>
                                     <tr>
                                         <td>capacidad</td>
-                                        <td>:</td>
-                                        <td>5 mts lineales</td>
+                                        <td>5 metros lineales</td>
                                     </tr>
                                     <tr>
                                         <td>color</td>
-                                        <td>:</td>
                                         <td>blanco, rojo, azul, negro, otros</td>
                                     </tr>
                                     <tr>
                                         <td>material</td>
-                                        <td>:</td>
-                                        <td>polipropileno atoxico</td>
+                                        <td>polipropileno atóxico</td>
                                     </tr>
                                     <tr>
                                         <td>temperatura de trabajo</td>
-                                        <td>:</td>
-                                        <td>hasta 120 oC</td>
+                                        <td>hasta 120oC</td>
                                     </tr>
                                 </table>
                             </div>
@@ -193,27 +184,22 @@
                                 <table>
                                     <tr>
                                         <td>proceso</td>
-                                        <td>:</td>
                                         <td>soplado</td>
                                     </tr>
                                     <tr>
-                                        <td>medidas aprox. ( ± 1 % )</td>
-                                        <td>:</td>
+                                        <td>medidas aprox. ( ± 1% )</td>
                                         <td>51x52x17mm</td>
                                     </tr>
                                     <tr>
                                         <td>color</td>
-                                        <td>:</td>
                                         <td>varios</td>
                                     </tr>
                                     <tr>
                                         <td>peso</td>
-                                        <td>:</td>
-                                        <td>7.0±2.0g</td>
+                                        <td>7.0 ± 2.0g</td>
                                     </tr>
                                     <tr>
                                         <td>material</td>
-                                        <td>:</td>
                                         <td>polietileno atóxico</td>
                                     </tr>
                                 </table>
@@ -222,27 +208,22 @@
                                 <table>
                                     <tr>
                                         <td>proceso</td>
-                                        <td>:</td>
                                         <td>soplado</td>
                                     </tr>
                                     <tr>
-                                        <td>medidas aprox. ( ± 1 % )</td>
-                                        <td>:</td>
+                                        <td>medidas aprox. ( ± 1% )</td>
                                         <td>1070x385x27mm</td>
                                     </tr>
                                     <tr>
                                         <td>peso</td>
-                                        <td>:</td>
                                         <td>850±100g</td>
                                     </tr>
                                     <tr>
                                         <td>color</td>
-                                        <td>:</td>
                                         <td>varios</td>
                                     </tr>
                                     <tr>
                                         <td>material</td>
-                                        <td>:</td>
                                         <td>polietileno atóxico</td>
                                     </tr>
                                 </table>

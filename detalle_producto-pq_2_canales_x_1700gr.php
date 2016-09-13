@@ -126,7 +126,7 @@
                             <span>Stock: 21</span> -->
                         </div>
                         <div class="product-desc">
-                            <p>Aliquam quis risus viverra, ornare ipsum vitae, congue tellus. Vestibulum nunc lorem, scelerisque a tristique non, accumsan ornare eros. Nullam sapien metus, volutpat dictum. Praesent tellus felis, aliquet id augue at, tincidunt vestibulum leo.</p>
+                            <p>No hay descripción.</p>
                         </div>
                         <div class="product-inner-info">
                             <h2>Especificaciones técnicas</h2>
@@ -143,38 +143,31 @@
                                 <table>
                                     <tr>
                                         <td>Medidas</td>
-                                        <td>:</td>
-                                        <td>(1020 x 210 x 100)±2 mm.</td>
+                                        <td>(1020 x 210 x 100) ± 2 mm</td>
                                     </tr>
                                     <tr>
                                         <td>peso</td>
-                                        <td>:</td>
                                         <td>1700 ± 200 g</td>
                                     </tr>
                                     <tr>
                                         <td>capacidad</td>
-                                        <td>:</td>
-                                        <td>2 mts lineales</td>
+                                        <td>2 metros lineales</td>
                                     </tr>
                                     <tr>
                                         <td>carga</td>
-                                        <td>:</td>
-                                        <td>50 kg</td>
+                                        <td>50kg</td>
                                     </tr>
                                     <tr>
                                         <td>color</td>
-                                        <td>:</td>
-                                        <td>blanco, azul, negro, otros s/ requerimiento</td>
+                                        <td>blanco, azul, negro, otros s/requerimiento</td>
                                     </tr>
                                     <tr>
                                         <td>material</td>
-                                        <td>:</td>
                                         <td>polipropileno atoxico</td>
                                     </tr>
                                     <tr>
                                         <td>caracteristicas</td>
-                                        <td>:</td>
-                                        <td>resistente al impacto, de facil transporte y manipuleo permite trabajar hasta una temperatura de 120 oC</td>
+                                        <td>resistente al impacto, de facil transporte y manipuleo permite trabajar hasta una temperatura de 120oC</td>
                                     </tr>
                                 </table>
                             </div>
@@ -182,28 +175,19 @@
                                 <table>
                                     <tr>
                                         <td>Medidas</td>
-                                        <td>:</td>
-                                        <td>1037 x 217 x 27 mm.</td>
+                                        <td>89.5x86.5x18mm</td>
                                     </tr>
                                     <tr>
                                         <td>peso</td>
-                                        <td>:</td>
-                                        <td>550±50g</td>
-                                    </tr>
-                                    <tr>
-                                        <td>color</td>
-                                        <td>:</td>
-                                        <td>varios</td>
+                                        <td>16.0 ± 2g</td>
                                     </tr>
                                     <tr>
                                         <td>material</td>
-                                        <td>:</td>
-                                        <td>Polietileno atoxico</td>
+                                        <td>polietileno atoxico</td>
                                     </tr>
                                     <tr>
                                         <td>caracteristicas</td>
-                                        <td>:</td>
-                                        <td>Ensamble adecuado y permite el trabajo a una temperatura de 100 oC</td>
+                                        <td>ensamble adecuado y permite el trabajo a una temperatura de 120oC</td>
                                     </tr>
                                 </table>
                             </div>
@@ -211,23 +195,23 @@
                                 <table>
                                     <tr>
                                         <td>Medidas</td>
-                                        <td>:</td>
-                                        <td>89.5 x 86.5 x 18 mm.</td>
+                                        <td>1037 x 217 x 27mm</td>
                                     </tr>
                                     <tr>
                                         <td>peso</td>
-                                        <td>:</td>
-                                        <td>16.0 ± 2 g</td>
+                                        <td>550 ± 50g</td>
+                                    </tr>
+                                    <tr>
+                                        <td>color</td>
+                                        <td>varios</td>
                                     </tr>
                                     <tr>
                                         <td>material</td>
-                                        <td>:</td>
-                                        <td>polietileno atoxico</td>
+                                        <td>Polietileno atoxico</td>
                                     </tr>
                                     <tr>
                                         <td>caracteristicas</td>
-                                        <td>:</td>
-                                        <td>ensamble adecuado y permite el trabajo a una temperatura de 120 oC</td>
+                                        <td>Ensamble adecuado y permite el trabajo a una temperatura de 100 oC</td>
                                     </tr>
                                 </table>
                             </div>

@@ -3430,3 +3430,33 @@ table.full {
 .my-account-area .table-wrap tr{
   border-bottom: 1px solid #ddd;
 }
+
+/* ==================================
+  menu table
+=====================================*/
+#tabs-1 table,
+#tabs-2 table,
+#tabs-3 table{
+  background-color: #fff;
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  max-width: 500px;
+  margin: 0 auto;
+  width: 100%;
+}
+#tabs-1 table tr td,
+#tabs-2 table tr td,
+#tabs-3 table tr td{
+  border: 1px solid #ddd;
+  padding: 8px 8px;
+  text-transform: capitalize;
+  width: 50%;
+}
+
+#tabs-1 table tr td:nth-child(1),
+#tabs-2 table tr td:nth-child(1),
+#tabs-3 table tr td:nth-child(1) {
+  color: #BB9D13;
+
+}
