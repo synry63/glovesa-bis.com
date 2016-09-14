@@ -1,5 +1,16 @@
 <?php include('./include/header.php'); ?>
 <!-- Start Mobile Menu Area -->
+<div class="mobile-logo hidden-lg hidden-md">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="mobile-logo-image">
+                    <img src="./img/logo/logo-mobile-glovesa.png" alt="Logo Mobile Glovesa">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="mobile-menu-area">
     <div class="container">
         <div class="row">
@@ -7,16 +18,16 @@
                 <div class="mobile-menu">
                     <nav id="nav-mobile">
                         <ul>
-                            <li><a href="index.php">Home</a>
-                                <ul>
+                            <li><a href="index.php">Inicio</a>
+                                <!-- <ul>
                                     <li><a href="index.php">Home One</a></li>
                                     <li><a href="index-2.html">Home Two</a></li>
-                                </ul>
+                                </ul> -->
                             </li>
-                            <li><a href="about-us.html">About us</a></li>
-                            <li><a href="shop.html">Shop</a></li>
-                            <li><a href="blog.html">Blog</a></li>
-                            <li><a href="shop.html">jewllery</a>
+                            <!-- <li><a href="about-us.html">About us</a></li> -->
+                            <!-- <li><a href="shop.html">Shop</a></li> -->
+                            <!-- <li><a href="blog.html">Blog</a></li> -->
+                            <!-- <li><a href="shop.html">jewllery</a>
                                 <a href="#">WOMEN CLOTH </a>
                                 <ul>
                                     <li><a href="shop.html">casual shirt</a></li>
@@ -24,8 +35,8 @@
                                     <li><a href="shop.html">mia top</a></li>
                                     <li><a href="shop.html">muscle tee</a></li>
                                 </ul>
-                            </li>
-                            <li><a href="#">Pages</a>
+                            </li> -->
+                            <!-- <li><a href="#">Pages</a>
                                 <ul>
                                     <li><a href="cart.html">Cart</a></li>
                                     <li><a href="checkout.html">Checkout</a></li>
@@ -43,8 +54,8 @@
                                     <li><a href="contact.html">Contact</a></li>
                                     <li><a href="404.html">404</a></li>
                                 </ul>
-                            </li>
-                            <li><a href="contact.html">Contact</a></li>
+                            </li> -->
+                            <!-- <li><a href="contact.html">Contact</a></li> -->
                         </ul>
                     </nav>
                 </div>
@@ -72,14 +83,14 @@
             <div class="ms-slide slide-1" style="z-index: 10" data-delay="0">
                 <img src="lib/masterslider/style/blank.gif" data-src="img/slider1.jpg" alt="lorem ipsum dolor sit"/>
 
-                <div class="ms-layer text-box" style="left:-200px; top:40px"
+                <div class="ms-layer text-box" style="left:-130px; top:40px"
                      data-effect="rotatebottom(40,250,c)"
                      data-duration="3000"
                      data-delay="0"
                      data-ease="easeOutExpo"
                     > </div>
 
-                <h3 class="ms-layer light-title" style="left:-150px; top:45px"
+                <h3 class="ms-layer light-title" style="left:-75px; top:48px"
                     data-effect="left(short)"
                     data-duration="3500"
                     data-delay="900"
@@ -96,16 +107,16 @@
 
             </div>
             <div class="ms-slide slide-2" style="z-index: 11" data-delay="0">
-                <img src="lib/masterslider/style/blank.gif" data-src="img/slider6.jpg" alt="lorem ipsum dolor sit"/>
+                <img src="lib/masterslider/style/blank.gif" data-src="img/slider8.jpg" alt="lorem ipsum dolor sit"/>
 
-                <div class="ms-layer text-box" style="right:-200px; top:40px "
+                <div class="ms-layer text-box" style="right:-130px; top:40px "
                      data-effect="rotateright(40,250,c)"
                      data-duration="2500"
                      data-delay="0"
                      data-ease="easeOutExpo"
                     > </div>
 
-                <h3 class="ms-layer light-title" style="right:-220px; top:45px"
+                <h3 class="ms-layer light-title" style="right: -285px;; top:48px"
                     data-effect="right(short)"
                     data-duration="3500"
                     data-delay="900"
@@ -123,16 +134,16 @@
             </div>
 
             <div class="ms-slide slide-3" style="z-index: 12" data-delay="0">
-                <img src="lib/masterslider/style/blank.gif" data-src="img/slider3.jpg" alt="lorem ipsum dolor sit"/>
+                <img src="lib/masterslider/style/blank.gif" data-src="img/slider1.jpg" alt="lorem ipsum dolor sit"/>
 
-                <div class="ms-layer text-box" style="left:-200px; top:40px"
+                <div class="ms-layer text-box" style="left:-130px; top:40px"
                      data-effect="rotateleft(40,250,c)"
                      data-duration="2500"
                      data-delay="0"
                      data-ease="easeOutExpo"
                     > </div>
 
-                <h3 class="ms-layer light-title" style="left:-140px; top:45px"
+                <h3 class="ms-layer light-title" style="left:-75px; top:48px"
                     data-effect="left(short)"
                     data-duration="3500"
                     data-delay="900"
@@ -151,14 +162,14 @@
             <div class="ms-slide slide-4" style="z-index: 13" data-delay="3">
                 <img src="lib/masterslider/style/blank.gif" data-src="img/slider8.jpg" alt="lorem ipsum dolor sit"/>
 
-                <div class="ms-layer text-box" style="right:-200px; top:40px "
+                <div class="ms-layer text-box" style="right:-130px; top:40px "
                      data-effect="rotatebottom(40,250,c)"
                      data-duration="3000"
                      data-delay="0"
                      data-ease="easeOutExpo"
                     > </div>
 
-                <h3 class="ms-layer light-title" style="right:-220px; top:45px"
+                <h3 class="ms-layer light-title" style="right: -285px; top:48px"
                     data-effect="right(short)"
                     data-duration="3500"
                     data-delay="900"
@@ -1496,28 +1507,28 @@
                                                                 <img alt="" src="img/product/CAJAS_MINERAS_N3/HQ_4_CANALES_X_2100_GR/caja99.jpg" class="secondary-img">
                                                             </a>
                                                             <div class="button-group">
-<!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
-<!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
-<!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
+                                                                <!-- <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>
+                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>
+                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button> -->
                                                                 <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>
                                                             </div>
                                                         </div>
-<!--                                                        <span class="product-c"><span>Sale</span></span>-->
+                                                        <!-- <span class="product-c"><span>Sale</span></span> -->
                                                     </div>
                                                     <div class="product-info">
                                                         <h2><a href="shop-details.html">HQ 4 CANALES X 2100 GR</a></h2>
-<!--                                                        <div class="price">-->
-<!--                                                            <span class="new-price"><span>$3000</span></span>-->
-<!--                                                        </div>-->
-<!--                                                        <div class="rating">-->
-<!--                                                            <ul>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
-<!--                                                            </ul>-->
-<!--                                                        </div>-->
+                                                        <!-- <div class="price">
+                                                            <span class="new-price"><span>$3000</span></span>
+                                                        </div>
+                                                        <div class="rating">
+                                                            <ul>
+                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>
+                                                            </ul>
+                                                        </div> -->
                                                     </div>
                                                 </div>
                                             </div>
@@ -1642,28 +1653,28 @@
 <!--                                                                <img alt="" src="img/product/8.jpg" class="secondary-img">-->
 <!--                                                            </a>-->
 <!--                                                            <div class="button-group">-->
-<!--<!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->-->
-<!--<!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->-->
-<!--<!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->-->
+<!--<!--                                                                <button class="pro-btn add-to-cart"><i class="fa fa-cart-arrow-down"></i></button>-->
+<!--<!--                                                                <button class="pro-btn wishlist"><i class="fa fa-heart"></i></button>-->
+<!--<!--                                                                <button class="pro-btn compear"><i class="fa fa-retweet"></i></button>-->
 <!--                                                                <button class="pro-btn quickview" data-toggle="modal" data-target="#myModal"><i class="fa fa-search-plus"></i></button>-->
 <!--                                                            </div>-->
 <!--                                                        </div>-->
-<!--<!--                                                        <span class="product-c"><span>Sale</span></span>-->-->
+<!--<!--                                                        <span class="product-c"><span>Sale</span></span>-->
 <!--                                                    </div>-->
 <!--                                                    <div class="product-info">-->
 <!--                                                        <h2><a href="shop-details.html">lami tok hi</a></h2>-->
-<!--<!--                                                        <div class="price">-->-->
-<!--<!--                                                            <span class="new-price"><span>$3000</span></span>-->-->
-<!--<!--                                                        </div>-->-->
-<!--<!--                                                        <div class="rating">-->-->
-<!--<!--                                                            <ul>-->-->
-<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->-->
-<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->-->
-<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->-->
-<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->-->
-<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->-->
-<!--<!--                                                            </ul>-->-->
-<!--<!--                                                        </div>-->-->
+<!--<!--                                                        <div class="price">-->
+<!--<!--                                                            <span class="new-price"><span>$3000</span></span>-->
+<!--<!--                                                        </div>-->
+<!--<!--                                                        <div class="rating">-->
+<!--<!--                                                            <ul>-->
+<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--<!--                                                                <li><i class="fa fa-star" aria-hidden="true"></i></li>-->
+<!--<!--                                                            </ul>-->
+<!--<!--                                                        </div>-->
 <!--                                                    </div>-->
 <!--                                                </div>-->
 <!--                                            </div>-->

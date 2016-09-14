@@ -29,21 +29,22 @@
                         <div class="col-lg-4 col-md-4 col-sm-4">
                             <div class="footer-contacto-section">
                                 <i class="fa fa-map-marker"> </i>
-                                <span>Jr. Comunidad Industrial Nº 333 – Urb. La Villa Chorrillos – Lima </span>
+                                <span>Jr. Comunidad Industrial Nº 333</span>
+                                <span>Urb. La Villa - Chorrillos – Lima </span>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-4">
                             <div class="footer-contacto-section">
                                 <i class="fa fa-envelope"> </i>
-                                <span>Correo: info@glovesa.pe </span><br>
-                                <span>info@websbucket.com</span>
+                                <span>Correo: ventas@displasac.com </span>
+                                <!-- <span>info@websbucket.com</span> -->
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-4">
                             <div class="footer-contacto-section">
                                 <i class="fa fa-phone"> </i>
-                                <span>Teléfonos: (01) 249-0387</span><br>
-                                <span>(01) 251-6552</span>
+                                <span>Teléfono: (01) 266-7186</span>
+                                <!-- <span>(01) 251-6552</span> -->
                             </div>
                         </div>
                     </ul>

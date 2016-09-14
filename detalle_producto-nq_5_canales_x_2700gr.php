@@ -7,13 +7,13 @@
                     <div class="mobile-menu">
                         <nav id="nav-mobile">
                             <ul>
-                                <li><a href="index.php">Home</a>
-                                    <ul>
+                                <li><a href="index.php">Inicio</a>
+                                    <!-- <ul>
                                         <li><a href="index.php">Home One</a></li>
                                         <li><a href="index-2.html">Home Two</a></li>
-                                    </ul>
+                                    </ul> -->
                                 </li>
-                                <li><a href="about-us.html">About us</a></li>
+                                <!-- <li><a href="about-us.html">About us</a></li>
                                 <li><a href="shop.html">Shop</a></li>
                                 <li><a href="blog.html">Blog</a></li>
                                 <li><a href="shop.html">jewllery</a>
@@ -44,7 +44,7 @@
                                         <li><a href="404.html">404</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="contact.html">Contact</a></li> -->
                             </ul>
                         </nav>
                     </div>
@@ -355,22 +355,22 @@
                     </div>
                 </div> -->
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-md-12">
                     <div class="review-area k-padding-top-4">
                         <ul class="review-tab" role="tablist">
                             <li role="presentation" class="active"><a href="#re-p-1" aria-controls="home" role="tab" data-toggle="tab"> Descripción del Producto </a></li>
-                            <!--                        <li role="presentation"><a href="#re-p-2" aria-controls="profile" role="tab" data-toggle="tab">customer review</a></li>-->
-                            <!--                        <li role="presentation"><a href="#re-p-3" aria-controls="messages" role="tab" data-toggle="tab">tag</a></li>-->
+                            <li role="presentation"><a href="#re-p-2" aria-controls="profile" role="tab" data-toggle="tab">customer review</a></li>
+                            <li role="presentation"><a href="#re-p-3" aria-controls="messages" role="tab" data-toggle="tab">tag</a></li>
                         </ul>
                         <div class="tab-content">
                             <div role="tabpanel" class="tab-pane active" id="re-p-1">
                                 <div class="p-des-re">
-                                    <!-- <p>
+                                    <p>
                                         It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here'.</p>
 
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text.
-                                    </p> -->
+                                    </p>
                                     <div class="col-lg-4 col-md-4 col-sm-4">
                                         <div class="p-des-re-characteristics">
                                             <h3 class="p-des-re-title">Bandeja</h3>
@@ -613,7 +613,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
     <!-- Start Related Product Area -->

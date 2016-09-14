@@ -125,7 +125,7 @@
   margin-left: -82px;
 }
 .mobile-menu-area {
-  margin-top: 100px;
+  /*margin-top: 100px;*/
 }
 .cart ul {
   right: auto;
@@ -203,6 +203,17 @@
 .cart-deatils td.cart-description .product-name a {
   font-size: 12px;
 }
+.mobile-logo-image {
+  text-align: center;
+}
+  .product-tab-menu ul.tab-menus li {
+    display: block;
+  }
+
+  .ms-anim-layers > div,
+  .ms-anim-layers > h3{
+    display: none;
+  }
 
 }
 
@@ -232,7 +243,7 @@
   margin-left: -93px;
 }
 .mobile-menu-area {
-  margin-top: 100px;
+  /*margin-top: 100px;*/
 }
 .cart ul {
   right: auto;
@@ -253,7 +264,8 @@
 .section-heading h2, .section-heading-two h2 {
   font-size: 15px;
 }
-.res-margin, .single-team-m, .single-banner, .slingle-blog, .footer-widget, .single-service{
+/*.res-margin, .single-team-m, .single-banner, .slingle-blog, .footer-widget, .single-service*/
+  .res-margin, .single-team-m, .single-banner, .slingle-blog, .single-service{
 	margin-bottom: 40px;
 }
 .section-heading h2 span::before, .sidebar-title span::before, .section-heading h2 span::after, .sidebar-title span::after, .owl-carousel .owl-controls .owl-buttons > div, .banner-details p, .banner-details h2::after, .slider-content, .nivo-directionNav, .project-desc, .review-tab::before, .review-tab::after {
@@ -430,20 +442,56 @@ blockquote {
 .soon-text-area h1 {
     font-size: 47px;
 }
+  .mobile-logo-image {
+    text-align: center;
+  }
+  .product-tab-menu ul.tab-menus li {
+    display: block;
+  }
+  .ms-anim-layers > div,
+  .ms-anim-layers > h3{
+    display: none;
+  }
+  .heading-banner.background .breadcam {
+    display: none;
+  }
+  .heading-banner.background .page-banner-title h2 {
+    font-size: 19px;
+  }
+  .footer-widget .footer-contact div {
+    padding-bottom: 15px;
+  }
+
+    
 }
 /* Large Mobile :480px. */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-.container {width:450px}
- .zoom-tab > li {
-  width: 80px;
-}
-.review-tab > li {
-  display: inline-block;
-  margin-left: 10px;
-}
-.review-tab > li > a {
-  padding: 8px 19px;
-}
+  .container {
+    width:450px
+  }
+   .zoom-tab > li {
+    width: 80px;
+  }
+  .review-tab > li {
+    display: inline-block;
+    margin-left: 10px;
+  }
+  .review-tab > li > a {
+    padding: 8px 19px;
+  }
 
+  .mobile-logo-image {
+    text-align: center;
+  }
+  .product-tab-menu ul.tab-menus li {
+    display: block;
+  }
+  .ms-anim-layers > div,
+  .ms-anim-layers > h3{
+    display: none;
+  }
+  .footer-widget .footer-contact div {
+    padding-bottom: 15px;
+  }
 }
  

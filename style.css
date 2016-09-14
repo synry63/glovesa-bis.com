@@ -675,53 +675,58 @@ button.my-btn {
     transition: all 0.7s ease 0s;
 	opacity:0;
 }
-.slide-1 .ms-layer.text-box{
-    width: 60%;
-    height: 12%;
+.slide-1 .ms-layer.text-box
+{
     background-color: rgba(0, 0, 0, 0.50);
+    border-radius: 32px;
+    height: 12%;
+    width: 53%;
 }
 
 .slide-1 .ms-layer.light-title{
     width: 60%;
-    font-weight: 400;
+    font-weight: 600;
     color: #ffffff;
-    font-size: 45px!important;
+    font-size: 35px!important;
     letter-spacing: 0px;
 }
 .slide-2 .ms-layer.text-box{
-    width: 60%;
-    height: 12%;
     background-color: rgba(0, 0, 0, 0.50);
+    border-radius: 32px;
+    height: 12%;
+    width: 49%;
 }
 .slide-2 .ms-layer.light-title{
     width: 60%;
-    font-weight: 400;
+    font-weight: 600;
     color: #ffffff;
-    font-size: 45px!important;
+    font-size: 35px!important;
     letter-spacing: 0px;
 }
 .slide-3 .ms-layer.text-box{
-    width: 60%;
-    height: 12%;
     background-color: rgba(0, 0, 0, 0.50);
+    border-radius: 32px;
+    height: 12%;
+    width: 51%;
 }
 .slide-3 .ms-layer.light-title{
     width: 60%;
-    font-weight: 400;
+    font-weight: 600;
     color: #ffffff;
-    font-size: 45px!important;
+    font-size: 35px!important;
     letter-spacing: 0px;
 }
 .slide-4 .ms-layer.text-box{
-    width: 60%;
-    height: 12%;
     background-color: rgba(0, 0, 0, 0.50);
+    border-radius: 32px;
+    height: 12%;
+    width: 49%;
 }
 .slide-4 .ms-layer.light-title{
     width: 60%;
-    font-weight: 400;
+    font-weight: 600;
     color: #ffffff;
-    font-size: 45px!important;
+    font-size: 35px!important;
     letter-spacing: 0px;
 }
 
@@ -1509,17 +1514,21 @@ button.my-btn {
   color: #fff;
   text-align: center;
 }
+.footer-widget .footer-contact div:hover i {
+  background-color: #BB9D13;
+  color: #fff;
+}
 .footer-widget .footer-contact i {
   background-color: #FFF;
   border-radius: 100%;
   color: #BB9D13;
   display: block;
-  font-size: 16px;
-  height: 35px;
-  line-height: 35px;
+  font-size: 22px;
+  height: 50px;
+  line-height: 50px;
   margin: 8px auto;
   text-align: center;
-  width: 35px;
+  width: 50px;
   
   transition: .3s;
 }
