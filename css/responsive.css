@@ -461,8 +461,9 @@ blockquote {
   .footer-widget .footer-contact div {
     padding-bottom: 15px;
   }
-
-    
+  .contact-us-form .single-input.one-half:nth-child(1) {
+    padding: 0;
+  }
 }
 /* Large Mobile :480px. */
 @media only screen and (min-width: 480px) and (max-width: 767px) {

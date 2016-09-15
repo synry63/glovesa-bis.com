@@ -140,7 +140,7 @@ html, body {
   text-transform:uppercase;
   height:40px;
   display:inline-block;
-  border-radius:32px;
+  border-radius:3px;
   outline:none;  
   background-color: #fff;
   line-height: 19px;
@@ -246,8 +246,11 @@ body {
     padding: 30px 0;
 }
 .logo {
-  width: 250px;
+  display: inline-block;
+  float: left;
   margin: 0 auto;
+  max-width: 150px;
+  width: 20%;
 }
 .header-middel-area .row .logo a {
   display: block;
@@ -431,15 +434,23 @@ button.my-btn {
 .menu-area-2{
   background: none;
 }
-.main-menu{
+.main-menu nav{
   /*background-color: #f1f1f1;*/
+  display: flex;
 }
 .main-menu ul {
-  text-align: center;
+  /*text-align: center;*/   /* MENU*/
+  align-items: center;
+  display: flex;
+  float: left;
+  justify-content: space-around;
+  height: 110px;
+  width: 80%;
 }
 .main-menu ul li{
 	position:relative;
     margin: 0;
+    /*outline: 1px solid yellow;*/
 }
 .main-menu ul li a {
   color: #333;
@@ -458,19 +469,19 @@ button.my-btn {
   height: 25px;
   position: absolute;
   right: 0;
-  top: 13px;
+  top: 4px;
   width: 1px;
 }
 
-.main-menu li:nth-child(4) a::after {
-  background: #ddd none repeat scroll 0 0;
-  content: "";
-  height: 25px;
-  position: absolute;
-  left: 0;
-  top: 13px;
-  width: 1px;
-}
+/*.main-menu li:nth-child(4) a::after {*/
+  /*background: #ddd none repeat scroll 0 0;*/
+  /*content: "";*/
+  /*height: 25px;*/
+  /*position: absolute;*/
+  /*left: 0;*/
+  /*top: 13px;*/
+  /*width: 1px;*/
+/*}*/
 .main-menu nav > ul > li:last-child > a::before{
   display: none;
 }
@@ -678,8 +689,9 @@ button.my-btn {
 .slide-1 .ms-layer.text-box
 {
     background-color: rgba(0, 0, 0, 0.50);
-    border-radius: 32px;
+    border-radius: 3px;
     height: 12%;
+    transform: skewX(-16deg);
     width: 53%;
 }
 
@@ -692,8 +704,9 @@ button.my-btn {
 }
 .slide-2 .ms-layer.text-box{
     background-color: rgba(0, 0, 0, 0.50);
-    border-radius: 32px;
+    border-radius: 3px;
     height: 12%;
+    transform: skewX(-16deg);
     width: 49%;
 }
 .slide-2 .ms-layer.light-title{
@@ -705,8 +718,9 @@ button.my-btn {
 }
 .slide-3 .ms-layer.text-box{
     background-color: rgba(0, 0, 0, 0.50);
-    border-radius: 32px;
+    border-radius: 3px;
     height: 12%;
+    transform: skewX(-16deg);
     width: 51%;
 }
 .slide-3 .ms-layer.light-title{
@@ -718,8 +732,9 @@ button.my-btn {
 }
 .slide-4 .ms-layer.text-box{
     background-color: rgba(0, 0, 0, 0.50);
-    border-radius: 32px;
+    border-radius: 3px;
     height: 12%;
+    transform: skewX(-16deg);
     width: 49%;
 }
 .slide-4 .ms-layer.light-title{
@@ -2199,10 +2214,11 @@ ul.footer-menu li a:hover{
   bottom: 1.5px;
   left: 15px;
   position: absolute;
+  transform: skewX(-16deg);
 }
 .breadcam > ul {
   background: #BB9D13 none repeat scroll 0 0;
-  border-radius: 32px;
+  border-radius: 3px;
   color: #fff;
   display: inline-block;
   font-size: 16px;
@@ -2216,6 +2232,7 @@ ul.footer-menu li a:hover{
   font-size: 16px;
   margin-right: 10px;
   text-transform: capitalize;
+  transform: skewX(16deg);
 }
 .breadcam ul li i{
   margin-right: 10px;
@@ -2227,10 +2244,11 @@ ul.footer-menu li a:hover{
     color: #000000;
 }
 .page-banner-title {
-  display: inline-block;
   background-color: rgba(31,31,31, .75);
+  border-radius: 3px;
+  display: inline-block;
   padding: 10px 20px;
-  border-radius: 32px;
+  transform: skewX(-16deg);
 }
 .page-banner-title > h2 {
   color: #fff;
@@ -2238,6 +2256,7 @@ ul.footer-menu li a:hover{
   margin: 0;
   /*text-shadow: rgba(0,0,0,.8) 2px 2px 0px;*/
   text-transform: uppercase;
+  transform: skewX(16deg);
 }
 .shop-tab-1 {
   display: inline-block;
@@ -2866,18 +2885,24 @@ span.email-notes {
 .contact-single-info {
   border: 1px solid #ddd;
   margin-top: 40px;
+  min-height:172px;
 }
 .info-icon {
+  border: 1px solid #ddd;
   border-radius: 100%;
   height: 80px;
-  line-height: 80px;
   margin-bottom: auto;
   margin-left: auto;
   margin-right: auto;
   position: relative;
   top: -40px;
   width: 80px;
-  background: #BB9D13;
+  background: #fff;
+}
+.info-icon i {
+  color: #BB9D13;
+  font-size: 25px;
+  line-height: 80px;
 }
 .info-dis {
   margin-top: -12px;
@@ -2911,35 +2936,38 @@ span.email-notes {
   width: 50%;
 }
 .contact-us-area .form-inner .single-input label {
-  color: #333;
+  color: #BB9D13;
   display: block;
   font-size: 14px;
   font-weight: 400;
   line-height: 15px;
   margin-bottom: 10px;
 }
-.contact-us-area .form-inner .single-input label span{
+.contact-us-area .form-inner .single-input label span,
+.contact-us-area .form-inner .single-input p span {
   color: #ff0000;
   display: inline-block;
   margin-left: 5px;
 }
-.contact-us-area .form-inner input[type="text"] {
+.contact-us-area .form-inner input[type="text"],
+.contact-us-area .form-inner input[type="email"] {
   background: #f1f1f1 none repeat scroll 0 0;
   border: 1px solid #ddd;
-  border-radius: 32px;
+  border-radius: 3px;
   height: 40px;
   line-height: 40px;
   padding: 0 15px;
   width: 100%;
 }
 .single-input textarea{
-  padding: 15px;
-  width: 100%;
-  border-radius: 32px;
-  height: 150px; 
-  border: 1px solid #ddd;
-  resize: none;
   background: #f1f1f1 none repeat scroll 0 0;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  height: 150px;
+  outline: none;
+  padding: 15px;
+  resize: none;
+  width: 100%;
 }
 .single-admin-contact{
   overflow: hidden;
@@ -3150,10 +3178,15 @@ table.full {
   border-radius: 100%;
   display: block;
   height: 80px;
-  line-height: 80px;
   margin: 0 auto;
   width: 80px;
   margin-bottom: 20px;
+}
+/*icono*/
+.service-icon i {
+  color: #BB9D13;
+  font-size: 25px;
+  line-height: 80px;
 }
 .about-us-area .single-service > h4 {
   font-weight: 700;

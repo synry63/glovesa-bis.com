@@ -15,7 +15,7 @@
 				<div class="breadcam">
 					<ul>
 						<li><a href="index.php">Inicio</a></li>
-						<li><i class="fa fa-angle-right"></i><a href="blog.html">SOBRE NOSOTROS</a></li>
+						<li><i class="fa fa-angle-right"></i>SOBRE NOSOTROS</li>
 					</ul>
 				</div>
 			</div>
@@ -55,7 +55,8 @@
 				<div class="col-md-4 col-sm-6 col-xs-12">
 					<div class="single-service text-center">
 								<span class="service-icon">
-									<img src="img/icon/12.png" alt="">
+									<!-- <img src="img/icon/12.png" alt=""> -->
+									<i class="fa fa-bar-chart" aria-hidden="true"></i>
 								</span>
 						<h4>Usamos los estándares más altos de calidad</h4>
 						<p>Nuestros productos son de excelente calidad, ya que contamos con un excelente equipo profesional al cuidado de cada detalle que lleva todo el proceso de fabricación.</p>
@@ -66,7 +67,8 @@
 				<div class="col-md-4 col-sm-6 col-xs-12">
 					<div class="single-service text-center">
 								<span class="service-icon">
-									<img src="img/icon/13.png" alt="">
+									<!-- <img src="img/icon/13.png" alt=""> -->
+									<i class="fa fa-refresh" aria-hidden="true"></i>
 								</span>
 						<h4>Último en Tecnología</h4>
 						<p>Nos encontramos en constante renovación y adquiriendo nuevos conocimientos y tecnologías con el fin de ser competitivos antes las necesidades del mercado.</p>
@@ -77,7 +79,8 @@
 				<div class="col-md-4 hidden-sm col-xs-12">
 					<div class="single-service text-center">
 								<span class="service-icon">
-									<img src="img/icon/14.png" alt="">
+									<!-- <img src="img/icon/14.png" alt=""> -->
+									<i class="fa fa-check" aria-hidden="true"></i>
 								</span>
 						<h4>Excelente Atención</h4>
 						<p>Nuestro compromiso con nuestros clientes, es una responsabilidad que tomamos como nuestra.</p>

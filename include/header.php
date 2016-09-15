@@ -110,9 +110,23 @@
 					<div class="col-md-12 hidden-sm hidden-xs">
 						<div class="main-menu">
 							<nav>
+                                <div class="logo">
+                                    <a href="index.php">
+                                        <img src="img/logo/logo_desktop.png" alt="Logo Globesa">
+                                        <!-- <img src="../img/logo-01.png" alt="Logo Globesa"> -->
+                                    </a>
+                                </div>
 								<ul>
-<!--									<li class="active"><a href="index.html">Nuestros productos</a>
-										<div class="mega-menu">
+                                    <!-- <li>
+                                        <div class="logo">
+                                            <a href="index.php">
+                                                <img src="img/logo/logo_desktop.png" alt="Logo Globesa">
+                                                 <img src="../img/logo-01.png" alt="Logo Globesa">
+                                            </a>
+                                        </div>
+                                    </li> -->
+									<li class="active"><a href="index.php">Nuestros productos</a>
+										<!-- <div class="mega-menu">
 											<span>
 												<a class="mega-title" href="#">WOMEN CLOTH </a>
 												<a href="shop.html">casual shirt</a>
@@ -141,25 +155,26 @@
 												<a href="shop.html">mia top </a>
 												<a href="shop.html">muscle tee </a>
 											</span>
-										</div>
-									</li>-->
-<!--									<li><a href="about-us.html">Proceso de trabajo</a></li>-->
-									<li>
+										</div> -->
+									</li>
+									<li><a href="about-us.html">Proceso de trabajo</a></li>
+									<!-- <li>
 										<div class="logo">
 											<a href="index.php">
-                                                <!--<img src="img/logo/logo_web.png" alt="Logo Globesa">-->
+                                                <img src="img/logo/logo_web.png" alt="Logo Globesa">
                                                 <img src="../img/logo-01.png" alt="Logo Globesa">
 											</a>
 										</div>
-									</li>
+									</li> -->
 
-<!--									<li><a href="shop.html">Nuestro equipo</a></li>-->
-<!--									<li><a href="shop.html">Contáctanos</a></li>-->
+									<li><a href="sobre_nosotros.php">Sobre Nosotros</a></li>
+									<li><a href="contactenos.php">Contáctenos</a></li>
+
 								</ul>
 							</nav>
 						</div>
 					</div>
 				</div>
-			</div>
+            </div>
 		</div>
     	<!-- End Menu Area -->
