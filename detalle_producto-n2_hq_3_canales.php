@@ -145,7 +145,7 @@
                                     </tr>
                                     <tr>
                                         <td>peso</td>
-                                        <td>14.0 ± 2.0 g</td>
+                                        <td>14.0 ± 2.0g</td>
                                     </tr>
                                     <tr>
                                         <td>material</td>

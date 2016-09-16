@@ -75,7 +75,7 @@
                             <span>Stock: 21</span> -->
                         </div>
                         <div class="product-desc">
-                            <p>No hay descripción.</p>
+                            <p>Las bandejas portatestigos No2 Modelo NQ de 5 canales son fabricadas con material de primera Calidad, pasan un estricto control de calidad, son apropiados para la industria minera en el almacenamiento, transportede pruebas y muestras, se caracterizan por su ligereza, resistencia y son practicamente irrompibles, facilmente apilables, es impermeable y no se corroe, resistente a los rayos ultravioleta y es mas durable en el campo.</p>
                         </div>
                         <div class="product-inner-info">
                             <h2>Especificaciones técnicas</h2>
@@ -91,48 +91,92 @@
                             <div id="tabs-1">
                                 <table>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td>proceso</td>
+                                        <td>inyección</td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td>medidas aprox. (± 2mm)</td>
+                                        <td>1027.5x307.7x57.4mm</td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td>alojamiento</td>
+                                        <td>53.0mm</td>
+                                    </tr>
+                                    <tr>
+                                        <td>peso</td>
+                                        <td>1600 ± 100gr</td>
+                                    </tr>
+                                    <tr>
+                                        <td>numero de canales</td>
+                                        <td>5</td>
+                                    </tr>
+                                    <tr>
+                                        <td>capacidad</td>
+                                        <td>5 metros lineales</td>
+                                    </tr>
+                                    <tr>
+                                        <td>color</td>
+                                        <td>verde, rojo y otros</td>
+                                    </tr>
+                                    <tr>
+                                        <td>material</td>
+                                        <td>polipropileno atoxico</td>
+                                    </tr>
+                                    <tr>
+                                        <td>temperatura de trabajo</td>
+                                        <td>hasta 120oC</td>
+                                    </tr>
+                                    <tr>
+                                        <td>escala graduada (borde)</td>
+                                        <td>cada 10cm</td>
                                     </tr>
                                 </table>
                             </div>
                             <div id="tabs-2">
                                 <table>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td>proceso</td>
+                                        <td>soplado</td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td>medidas aprox. (± 1%)</td>
+                                        <td>51x52x17mm</td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td>color</td>
+                                        <td>varios</td>
+                                    </tr>
+                                    <tr>
+                                        <td>peso</td>
+                                        <td>7.0 ± 2.0g</td>
+                                    </tr>
+                                    <tr>
+                                        <td>material</td>
+                                        <td>polietileno atoxico</td>
                                     </tr>
                                 </table>
                             </div>
                             <div id="tabs-3">
                                 <table>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td>proceso</td>
+                                        <td>soplado</td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td>medidas aprox. (± 1%)</td>
+                                        <td>1034x330x10mm</td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td>color</td>
+                                        <td>azul / otros</td>
+                                    </tr>
+                                    <tr>
+                                        <td>peso</td>
+                                        <td>600 ± 100g</td>
+                                    </tr>
+                                    <tr>
+                                        <td>material</td>
+                                        <td>polietileno</td>
                                     </tr>
                                 </table>
                             </div>

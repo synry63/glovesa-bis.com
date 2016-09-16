@@ -75,8 +75,8 @@
                             <span>Stock: 21</span> -->
                         </div>
                         <div class="product-desc">
-                            <p>Las bandejas INSERTABLES portatestigos Modelo HQ- 4 canales son fabricadas con material de primera Calidad, Polipropileno y pigmento atoxico. Pasan un estricto control de calidad, son apropiados para el almacenamiento, transporte de pruebas y muestras, se caracterizan por su ligereza, resistencia
-                                y son practicamente irrompibles. Al ser Insertables permite un ahorro considerable de espacio en el transporte y almacenamiento.</p>
+                            <p>Las bandejas INSERTABLES portatestigos Modelo HQ- 4 canales son fabricadas con material de primera calidad, Polipropileno y pigmento atoxico. Pasan un estricto control de calidad, son apropiados para el almacenamiento, transporte de pruebas y muestras, se caracterizan por su ligereza, resistenciay son practicamente irrompibles.</p>
+                            <p>Al ser insertables permite un ahorro considerable de espacio en el transporte y almacenamiento.</p>
                         </div>
                         <div class="product-inner-info">
                             <h2>Especificaciones técnicas</h2>
@@ -92,48 +92,64 @@
                             <div id="tabs-1">
                                 <table>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> proceso </td>
+                                        <td> inyección </td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> medidas </td>
+                                        <td> 1058x338x75mm </td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> alojamiento </td>
+                                        <td> 75.0mm </td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> peso </td>
+                                        <td> 1500 +/- 100gr </td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> numero de canales </td>
+                                        <td> 4 </td>
+                                    </tr>
+                                    <tr>
+                                        <td> capacidad </td>
+                                        <td> 4 metros lineales</td>
+                                    </tr>
+                                    <tr>
+                                        <td> color </td>
+                                        <td> rojo, azul, negro, otros </td>
+                                    </tr>
+                                    <tr>
+                                        <td> material </td>
+                                        <td> polipropileno atoxico </td>
+                                    </tr>
+                                    <tr>
+                                        <td> temperatura de trabajo </td>
+                                        <td> hasta 120oC </td>
                                     </tr>
                                 </table>
                             </div>
                             <div id="tabs-2">
                                 <table>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> proceso </td>
+                                        <td> soplado </td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> medidas aprox. </td>
+                                        <td> (68x69x19.5) ± 1mm </td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> color </td>
+                                        <td> blanco, otros </td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> peso </td>
+                                        <td> 14.0 ± 2.0g </td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> material </td>
+                                        <td> polietileno atoxico </td>
                                     </tr>
                                 </table>
                             </div>

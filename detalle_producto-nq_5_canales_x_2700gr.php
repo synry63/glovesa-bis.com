@@ -136,7 +136,7 @@
                                         <td>soplado</td>
                                     </tr>
                                     <tr>
-                                        <td>medidas aprox. ( ± 1% )</td>
+                                        <td>medidas aprox. (± 1%)</td>
                                         <td>51x52x17mm</td>
                                     </tr>
                                     <tr>
@@ -160,7 +160,7 @@
                                         <td>soplado</td>
                                     </tr>
                                     <tr>
-                                        <td>medidas aprox. ( ± 1% )</td>
+                                        <td>medidas aprox. (± 1%)</td>
                                         <td>1070x385x27mm</td>
                                     </tr>
                                     <tr>

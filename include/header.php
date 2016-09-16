@@ -157,7 +157,7 @@
 											</span>
 										</div> -->
 									</li>
-									<li><a href="about-us.html">Proceso de trabajo</a></li>
+									<li><a href="proceso_trabajo.php">Proceso de trabajo</a></li>
 									<!-- <li>
 										<div class="logo">
 											<a href="index.php">

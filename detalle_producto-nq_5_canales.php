@@ -96,7 +96,7 @@
                                         <td>inyección</td>
                                     </tr>
                                     <tr>
-                                        <td>medidas aprox.</td>
+                                        <td>Medidas aprox. (± 2mm)</td>
                                         <td>1060x331x58mm</td>
                                     </tr>
                                     <tr>
@@ -132,20 +132,24 @@
                             <div id="tabs-2">
                                 <table>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> proceso </td>
+                                        <td> soplado </td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> medidas aprox. </td>
+                                        <td> (51x52x17mm) ± 1% </td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> color </td>
+                                        <td> varios </td>
                                     </tr>
                                     <tr>
-                                        <td> - </td>
-                                        <td> - </td>
+                                        <td> peso </td>
+                                        <td> 7.0 ± 2.0g </td>
+                                    </tr>
+                                    <tr>
+                                        <td> material </td>
+                                        <td> polietileno atóxico </td>
                                     </tr>
                                 </table>
                             </div>

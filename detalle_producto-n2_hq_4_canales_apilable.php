@@ -96,7 +96,7 @@
                                         <td>inyección</td>
                                     </tr>
                                     <tr>
-                                        <td>Medidas aprox. ( ± 2mm )</td>
+                                        <td>Medidas aprox. (± 2mm)</td>
                                         <td>1030 x 324 x 74 mm</td>
                                     </tr>
                                     <tr>
@@ -105,7 +105,7 @@
                                     </tr>
                                     <tr>
                                         <td>peso</td>
-                                        <td>1,700 ± 100 g</td>
+                                        <td>1,700 ± 100g</td>
                                     </tr>
                                     <tr>
                                         <td>numero de canales</td>

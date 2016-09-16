@@ -92,11 +92,11 @@
                                 <table>
                                     <tr>
                                         <td>Medidas</td>
-                                        <td>(1020 x 210 x 100) ± 2 mm</td>
+                                        <td>(1020 x 210 x 100) ± 2mm</td>
                                     </tr>
                                     <tr>
                                         <td>peso</td>
-                                        <td>1700 ± 200 g</td>
+                                        <td>1700 ± 200g</td>
                                     </tr>
                                     <tr>
                                         <td>capacidad</td>
@@ -108,7 +108,7 @@
                                     </tr>
                                     <tr>
                                         <td>color</td>
-                                        <td>blanco, azul, negro, otros s/requerimiento</td>
+                                        <td>blanco, azul, negro, otros</td>
                                     </tr>
                                     <tr>
                                         <td>material</td>

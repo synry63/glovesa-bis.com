@@ -849,15 +849,11 @@ button.ui-button::-moz-focus-inner {
     white-space: nowrap;
     width: 33.33333333333333%;
 }
-.list li:nth-child(1) {
-    border-radius: 12px 0 0 12px;
+.list li{
+    /*border-radius: 12px 0 0 12px;*/
     outline: none;
+}
 
-}
-.list li:nth-child(3) {
-    border-radius: 0 12px 12px 0;
-    outline: none;
-}
 .ui-tabs .ui-tabs-nav .ui-tabs-anchor {
     float: left;
     padding: .5em 1em;
@@ -924,7 +920,7 @@ body .ui-tooltip {
     font-weight: bold;
     margin-right: auto;
     margin-left: auto;
-    width: 48%;
+    width: 68%;
 }
 .ui-widget-header a {
     color: #333333;
@@ -1322,4 +1318,22 @@ a.ui-button:active,
 .ui-widget-shadow {
     -webkit-box-shadow: 0px 0px 5px #666666;
     box-shadow: 0px 0px 5px #666666;
+}
+
+@media screen and (min-width: 992px) and (max-width: 1200px){
+    .ui-widget-header {
+        width: 83%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .ui-widget-header {
+        width: 71%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .ui-widget-header {
+        width: 101%;
+    }
 }
