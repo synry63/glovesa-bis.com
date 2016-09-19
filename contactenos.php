@@ -76,7 +76,14 @@
 				<div class="row k-padding-t">
 					<div class="col-md-8 col-sm-8 col-xs-12 col-md-offset-2 col-sm-offset-2">
 						<div class="contact-us-form">
-							<form action="#">
+							<?php
+								if(isset($_GET['state']) && $_GET['state']==1){
+									echo "<div class='alert alert-success'><i class='fa fa-check-circle' aria-hidden='true'></i><strong> ¡Gracias!</strong> Tú mensaje ha sido enviado correctamente.</div>";
+								}else if (isset($_GET['state']) && $_GET['state']==0){
+									echo "<div class='alert alert-danger'><i class='fa fa-times-circle' aria-hidden='true'></i><strong> ¡Lo sentimos!</strong> No se pudo enviar el correo.</div>";
+								}
+							?>
+							<form action="server.php" method="post">
 								<div class="form-inner">
 									<div class="single-input one-half">
 										<label>Nombre y Apellido <span>*</span></label>
@@ -92,7 +99,7 @@
 									</div>
 									<div class="single-input">
 										<label>Comentario <span>*</span></label>
-										<textarea class="textarea" name="comentario"></textarea>
+										<textarea class="textarea" name="comentario" required></textarea>
 									</div>
 									<div class="single-input">
 										<p>Todos los campos con<span>*</span> son requeridos.</p>
