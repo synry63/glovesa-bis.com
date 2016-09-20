@@ -34,6 +34,9 @@
         <!-- jQuery UI -->
         <link rel="stylesheet" href="./css/jquery-ui.css">
 
+        <!-- flexslider -->
+        <link rel="stylesheet" href="css/flexslider.css">
+
 		<!-- style css -->
 		<link rel="stylesheet" href="style.css">
 		<!-- responsive css -->

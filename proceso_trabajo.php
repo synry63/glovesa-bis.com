@@ -23,6 +23,39 @@
 	</div>
 </div>
 <!-- End About-Us Header -->
+
+<section class="intro-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 col-md-6 col-md-push-6">
+				<i class="fa fa-circle-o-notch fa-spin ipad-loader" style="display: none;"></i>
+				<div class="device-frame animate">
+					<img src="img/product/caja.png" alt="">
+				</div>
+			</div>
+			<div class="col-xs-12 col-sm-12 col-md-6 col-md-pull-6">
+				<div class="jumbotron">
+					<h1><span>Nuestras</span> cajas mineras</h1>
+					<p>
+						Somos una empresa líder en la industria del plástico, ya que contamos con
+						más de 30 años de experiencia en el mercado, contando con una amplia gama
+						de productos para diversos sectores de del mercado tal como la agroindustria,
+						pesca, minería, avícola, industrial y artículos del hogar. <br>
+						Nos caracterizamos por ser una empresa eficaz, orientada hacia las
+						mejoras continuas que ponemos al alcance de nuestros clientes.
+						Estamos orgullosos de la calidad de servicio de nuestra empresa, porque
+						hemos construido una reputación líder en nuestro rubro.
+						Tenemos cuidado con el Planeta, porque somos conscientes con la
+						problemática del medio ambiente, es por eso
+						que somos ecofriendly con el medio ambiente.											</p>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+
+
 <!-- Start About-Us Area -->
 <div class="about-us-area k-padding">
 	<div class="container">

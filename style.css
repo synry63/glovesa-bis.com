@@ -1346,6 +1346,7 @@ button.my-btn {
   display: inline-block;
   padding: 0 5px;
 }
+
 /* ==================================
 	13. Home Blog Area
 =====================================*/
@@ -3519,5 +3520,40 @@ table.full {
 }
 
 /* ===================================
-message alert
-==================================== */
+SOBRE NOSOTROS
+=====================================*/
+.about-img {
+  text-align: center;
+}
+.quality-work {
+  border: 1px solid #ddd;
+  min-height: 260px;
+  padding-top: 33px;
+}
+.quality-work > h4 {
+  font-weight: 700;
+  text-transform: capitalize;
+  font-size: 16px;
+}
+.container-text-quality-work {
+  width: 90%;
+  margin-left: auto;
+  margin-right:auto;
+}
+.container-text-quality-work p {
+  text-align: justify;
+}
+
+.our-team-media {
+  width: 100%;
+}
+.article-count {
+  font-size: 79px;
+  float: left;
+  width: 20%;
+}
+.our-team-media-body {
+  float: left;
+  padding-top: 2.2rem;
+  width: 80%;
+}

@@ -122,8 +122,20 @@
 
 
 <!-- all js here -->
+
 <!-- jquery latest version -->
 <script src="js/vendor/jquery-1.12.0.min.js"></script>
+<!-- flexslider -->
+<script src="js/jquery.flexslider.js"></script>
+<script>
+    $(window).load(function() {
+        $('.flexslider').flexslider({
+            animation: "slide",
+            slideshowSpeed: "3000",
+            controlNav: false,
+        });
+    });
+</script>
 <!-- bootstrap js -->
 <script src="js/bootstrap.min.js"></script>
 <!-- meanmenu js -->
