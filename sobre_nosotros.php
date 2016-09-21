@@ -101,7 +101,7 @@
 	</div>
 </div>
 <!-- Our team -->
-<section class="our-team k-padding-b">
+<section class="our-team k-padding-bottom-4">
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">

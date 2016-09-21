@@ -84,9 +84,9 @@
                         </div>
                         <div id="tabs">
                             <ul class="list">
-                                <li><a href="#tabs-1">Bandeja</a></li>
-                                <li><a href="#tabs-2">Separador</a></li>
-                                <li><a href="#tabs-3">Tapa</a></li>
+                                <li><a href="#tabs-1" class="text-specifications">Bandeja</a></li>
+                                <li><a href="#tabs-2" class="text-specifications">Separador</a></li>
+                                <li><a href="#tabs-3" class="text-specifications">Tapa</a></li>
                             </ul>
                             <div id="tabs-1">
                                 <table>

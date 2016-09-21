@@ -106,7 +106,8 @@
 			<!-- End Header Middel -->
 		</div>
    		 <!-- End Header Area -->
-    	<!-- Start Menu Area -->
+
+        <!-- Start Menu Area -->
 		<div class="menu-area">
 			<div class="container">
 				<div class="row">
@@ -128,7 +129,10 @@
                                             </a>
                                         </div>
                                     </li> -->
-									<li class="active"><a href="index.php">Nuestros productos</a>
+                                    <?php
+                                    echo (basename($_SERVER['REQUEST_URI'], '?' . $_SERVER['QUERY_STRING'])=="" || (basename($_SERVER['REQUEST_URI'], '?' . $_SERVER['QUERY_STRING'])=="index.php" ))?'<li class="active"><a href="index.php">Nuestros productos</a>':'<li><a href="index.php">Nuestros productos</a>';
+                                    ?>
+
 										<!-- <div class="mega-menu">
 											<span>
 												<a class="mega-title" href="#">WOMEN CLOTH </a>
@@ -160,19 +164,22 @@
 											</span>
 										</div> -->
 									</li>
-									<li><a href="proceso_trabajo.php">Proceso de trabajo</a></li>
-									<!-- <li>
-										<div class="logo">
-											<a href="index.php">
-                                                <img src="img/logo/logo_web.png" alt="Logo Globesa">
-                                                <img src="../img/logo-01.png" alt="Logo Globesa">
-											</a>
-										</div>
-									</li> -->
+                                    <?php
+                                    echo (basename($_SERVER['REQUEST_URI'], '?' . $_SERVER['QUERY_STRING'])=="proceso_trabajo.php")?'<li class="active"><a href="proceso_trabajo.php">Proceso de trabajo</a></li>':'<li><a href="proceso_trabajo.php">Proceso de trabajo</a></li>';
+                                    ?>
 
-									<li><a href="sobre_nosotros.php">Sobre Nosotros</a></li>
-									<li><a href="contactenos.php">Contáctenos</a></li>
+                                    <?php
+                                    echo (basename($_SERVER['REQUEST_URI'], '?' . $_SERVER['QUERY_STRING'])=="sobre_nosotros.php") ? '<li class="active"><a href="sobre_nosotros.php">Sobre Nosotros</a></li>' : '<li><a href="sobre_nosotros.php">Sobre Nosotros</a></li>';
+                                    ?>
 
+                                    <?php
+                                    echo (basename($_SERVER['REQUEST_URI'], '?' . $_SERVER['QUERY_STRING'])=="contactenos.php") ? '<li class="active"><a href="contactenos.php">Contáctenos</a></li>' : '<li><a href="contactenos.php">Contáctenos</a></li>';
+                                    /*if(basename($_SERVER['REQUEST_URI'], '?' . $_SERVER['QUERY_STRING'])=="contactenos.php") {
+                                        echo '<li class="active"><a href="contactenos.php">Contactenos</a></li>';
+                                    }else {
+                                        echo '<li><a href="contactenos.php">Contactenos</a></li>';
+                                    }*/
+                                    ?>
 								</ul>
 							</nav>
 						</div>

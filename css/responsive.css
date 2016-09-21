@@ -234,6 +234,11 @@
     margin-bottom: 6px;
   }
 
+  /*botones*/
+  .feature-product-area .owl-carousel .owl-controls .owl-buttons > div {
+    top: -21px;
+  }
+
 }
 
  
@@ -287,7 +292,7 @@
   .res-margin, .single-team-m, .single-banner, .slingle-blog, .single-service{
 	margin-bottom: 40px;
 }
-.section-heading h2 span::before, .sidebar-title span::before, .section-heading h2 span::after, .sidebar-title span::after, .owl-carousel .owl-controls .owl-buttons > div, .banner-details p, .banner-details h2::after, .slider-content, .nivo-directionNav, .project-desc, .review-tab::before, .review-tab::after {
+.section-heading h2 span::before, .sidebar-title span::before, .section-heading h2 span::after, .sidebar-title span::after, .banner-details p, .banner-details h2::after, .slider-content, .nivo-directionNav, .project-desc, .review-tab::before, .review-tab::after {
 	display: none;
 }
 .product-info a, .blog-content-h a {
@@ -483,6 +488,11 @@ blockquote {
   .contact-us-form .single-input.one-half:nth-child(1) {
     padding: 0;
   }
+  /*botones*/
+  .feature-product-area .owl-carousel .owl-controls .owl-buttons > div {
+    top: -21px;
+  }
+
 }
 /* Large Mobile :480px. */
 @media only screen and (min-width: 480px) and (max-width: 767px) {

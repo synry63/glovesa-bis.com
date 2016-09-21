@@ -2,26 +2,7 @@
 <?php include('./include/header.php')?>
 <!-- menu -->
 <?php include('./include/menu.php')?>
-    <!-- Start Shop-Details Header -->
-    <div class="heading-banner background">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="heading-banner k-padding text-center">
-                        <div class="page-banner-title">
-                            <h2>HQ 4 CANALES</h2>
-                        </div>
-                    </div>
-                    <div class="breadcam">
-                        <ul>
-                            <li><a href="index.php">Inicio</a></li>
-                            <li><i class="fa fa-angle-right"></i>HQ 4 CANALES</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+
     <!-- Start Shop-Details Header -->
     <div class="heading-banner background">
         <div class="container">
